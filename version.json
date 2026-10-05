@@ -1,9 +1,9 @@
 {
-  "version": "1.4.121",
-  "zip": "ad88-1.4.121.zip",
-  "sha256": "4e2bf5c9b01c546157c4adae033845ebac2b11dfe260c7ce919c2f723e959bcb",
-  "size": 1380481,
-  "notes": "Chặn SĐT VietinBank/BIDV/MSB đúng cách và nhận thêm tên ngân hàng viết khác.",
-  "date": "2026-10-05T04:49:15.446Z",
-  "sig": "xp7G8im-q9TKkre8jsr3P0xdLHHw-eMGa055UuVDkNSZrE4VQlpMLYH2BovLtDOqcamBE4-3BP0873hrY9JubA"
+  "version": "1.4.123",
+  "zip": "ad88-1.4.123.zip",
+  "sha256": "0ca86bc2590b86a2a9a3e7e84ad44f202d396c5c45088427b42400801a066cb8",
+  "size": 1459468,
+  "notes": "Logo AD88 chính thức, giao diện Giáng sinh dây đèn + tuyết rơi nhẹ.",
+  "date": "2026-10-05T05:20:02.970Z",
+  "sig": "V4SGKTrJOdyn1QJ0bZDRfdYF_xIoY60IB71v_EH-jp7Hjqhcxe-DH-jb83cg8ZWg4eYkOB8Ljm6l8Gjupblznw"
 }
