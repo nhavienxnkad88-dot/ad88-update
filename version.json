@@ -1,9 +1,9 @@
 {
-  "version": "1.4.118",
-  "zip": "ad88-1.4.118.zip",
-  "sha256": "e9d2ac821cc55dac13490bd4f94dd9cf9076a90c034a3a24c748cb841f7731a4",
-  "size": 1378633,
-  "notes": "Giao diện Giáng sinh cho thanh tiêu đề.",
-  "date": "2026-10-05T04:08:12.226Z",
-  "sig": "jyUGfZsfKzv29KFVGoYNqnGw-lB79TzNql9EcESGAC2_woLwpBHeIA-OBxq64SAnTG1e1GRNMF2hnkLYwicmzA"
+  "version": "1.4.121",
+  "zip": "ad88-1.4.121.zip",
+  "sha256": "4e2bf5c9b01c546157c4adae033845ebac2b11dfe260c7ce919c2f723e959bcb",
+  "size": 1380481,
+  "notes": "Chặn SĐT VietinBank/BIDV/MSB đúng cách và nhận thêm tên ngân hàng viết khác.",
+  "date": "2026-10-05T04:49:15.446Z",
+  "sig": "xp7G8im-q9TKkre8jsr3P0xdLHHw-eMGa055UuVDkNSZrE4VQlpMLYH2BovLtDOqcamBE4-3BP0873hrY9JubA"
 }
