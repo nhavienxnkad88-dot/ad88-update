@@ -1,9 +1,9 @@
 {
-  "version": "1.4.117",
-  "zip": "ad88-1.4.117.zip",
-  "sha256": "10a5d964016c003dd4d06780ce59ed9b5c4f2fc9afc085acce25ca742aef4dab",
-  "size": 1375016,
-  "notes": "Khôi phục logic Bank Check y hệt 1.4.115.",
-  "date": "2026-10-05T03:35:26.203Z",
-  "sig": "t-LxTQUQdeM495_Ql-sxM4A3i_OsFCElRPXLAQ4IzLtt33Btn8LwxXDRlrSUAww9HH_QV4ZsCBeplfn6zDsM5w"
+  "version": "1.4.118",
+  "zip": "ad88-1.4.118.zip",
+  "sha256": "e9d2ac821cc55dac13490bd4f94dd9cf9076a90c034a3a24c748cb841f7731a4",
+  "size": 1378633,
+  "notes": "Giao diện Giáng sinh cho thanh tiêu đề.",
+  "date": "2026-10-05T04:08:12.226Z",
+  "sig": "jyUGfZsfKzv29KFVGoYNqnGw-lB79TzNql9EcESGAC2_woLwpBHeIA-OBxq64SAnTG1e1GRNMF2hnkLYwicmzA"
 }
