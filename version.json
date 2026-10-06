@@ -1,9 +1,9 @@
 {
-  "version": "1.4.129",
-  "zip": "ad88-1.4.129.zip",
-  "sha256": "ba0a880060bb6cf31e616ca5a658ee0545b89feaede2718f6ef5ec481bfb110c",
-  "size": 1467123,
-  "notes": "Logo AD88 chính thức, giao diện Giáng sinh dây đèn + tuyết rơi nhẹ.",
-  "date": "2026-10-06T03:56:52.288Z",
-  "sig": "19tAB-sx8wmMRk8qyfzOJrSMuit3P764n_lL3UR-6tm6PdsJhtnd0hO7RnuUhrycYPecMk1kouxyh3me52NAsA"
+  "version": "1.4.130",
+  "zip": "ad88-1.4.130.zip",
+  "sha256": "71eaad6eebb0f05b96930af7ce9e388ed07e162f2104bf18f87f344f07ca5a87",
+  "size": 1591966,
+  "notes": "Giao diện banner (Giáng sinh, Mạch điện tử, Thành phố pháo hoa) chọn trong Cài đặt; Đơn hiện tại lên trên; sửa nhãn TỐT; thêm KLBANK.",
+  "date": "2026-10-06T13:53:13.207Z",
+  "sig": "aPLEYh9zQafkB24gLOCtGQ7rsQQsyQFbFJbVSE5Dj5TIxXARv2msOArI3ss-NZyOD2sz9ssRNT8kQym3KvNbWg"
 }
