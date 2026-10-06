@@ -1,9 +1,9 @@
 {
-  "version": "1.4.130",
-  "zip": "ad88-1.4.130.zip",
-  "sha256": "71eaad6eebb0f05b96930af7ce9e388ed07e162f2104bf18f87f344f07ca5a87",
-  "size": 1591966,
-  "notes": "Giao diện banner (Giáng sinh, Mạch điện tử, Thành phố pháo hoa) chọn trong Cài đặt; Đơn hiện tại lên trên; sửa nhãn TỐT; thêm KLBANK.",
-  "date": "2026-10-06T13:53:13.207Z",
-  "sig": "aPLEYh9zQafkB24gLOCtGQ7rsQQsyQFbFJbVSE5Dj5TIxXARv2msOArI3ss-NZyOD2sz9ssRNT8kQym3KvNbWg"
+  "version": "1.4.131",
+  "zip": "ad88-1.4.131.zip",
+  "sha256": "98a8f8c975e867b9fd2ec06f408d1c7967a5ef7e4fd82919d009bc4ca52b507d",
+  "size": 1778518,
+  "notes": "Sửa banner Mạch điện tử và Thành phố pháo hoa: căn giữa đúng khung, thành phố trải suốt banner, khu logo tối sáng dần.",
+  "date": "2026-10-06T14:09:44.192Z",
+  "sig": "X41iTKgjbOlNRj_W_MklvKRSw1nI2Q5vO4NUTMqI_wKrO4q-AKfrM3gI_ra0iedgbRF9UIRBT29Tk-IPvuelZw"
 }
