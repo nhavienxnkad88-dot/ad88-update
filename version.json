@@ -1,9 +1,9 @@
 {
-  "version": "1.4.131",
-  "zip": "ad88-1.4.131.zip",
-  "sha256": "98a8f8c975e867b9fd2ec06f408d1c7967a5ef7e4fd82919d009bc4ca52b507d",
-  "size": 1778518,
-  "notes": "Sửa banner Mạch điện tử và Thành phố pháo hoa: căn giữa đúng khung, thành phố trải suốt banner, khu logo tối sáng dần.",
-  "date": "2026-10-06T14:09:44.192Z",
-  "sig": "X41iTKgjbOlNRj_W_MklvKRSw1nI2Q5vO4NUTMqI_wKrO4q-AKfrM3gI_ra0iedgbRF9UIRBT29Tk-IPvuelZw"
+  "version": "1.4.132",
+  "zip": "ad88-1.4.132.zip",
+  "sha256": "fb7590c7531480bf5759a14410083615c4e670719b992547f71ee1670299efca",
+  "size": 1590628,
+  "notes": "Banner Thành phố pháo hoa làm lại đúng theo ảnh mẫu: một cảnh cân giữa, nền navy hai bên, ánh sáng giống ảnh mẫu.",
+  "date": "2026-10-06T14:34:35.405Z",
+  "sig": "gqmIblK8X0EujhNNZClS8ACssEHPgoSWhnSUoBU48AkIh4Z12FBoSds5d7zZ2WA6hYsed3rbZhQRfVZawSj9uQ"
 }
