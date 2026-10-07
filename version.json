@@ -1,9 +1,9 @@
 {
-  "version": "1.4.141",
-  "zip": "ad88-1.4.141.zip",
-  "sha256": "ee4bfc9e675186ee4c6e8abc514f273ecf3b65265bf3daa442c447b8079edc6b",
-  "size": 2150738,
-  "notes": "Bảng số dư: nút đổi kiểu số điện tử, mức TĂNG CAO theo từng nhà, ngưỡng mặc định 30tr vàng / 20tr đỏ.",
-  "date": "2026-10-07T05:55:22.546Z",
-  "sig": "x0IRe0mf7i2QH2II5sg4MlPOAtYNNW_xlPEHlJjA9bPWnSDFZHMTSvKVmOspB6Y_GXF-szN5ulcELv52H9Meyw"
+  "version": "1.4.143",
+  "zip": "ad88-1.4.143.zip",
+  "sha256": "49821be99dae9a2deed18b1afcea8eca6c455a302a83742001f8761bc779f138",
+  "size": 1741744,
+  "notes": "Mọi kiểu bảng số dư giữ nền, chỉ viền/chữ/số đổi màu; nhẹ hơn (font cắt gọn); kèm 6 mẫu số dư và các nâng cấp trước.",
+  "date": "2026-10-07T06:18:09.871Z",
+  "sig": "FQsMt9wP4mUfTNO1ispVq-jVLrysG9hlCR1G9CaJaNPLOEsJrCWS-QiG6wGsPsSvKNulrP4U8b7hVh_BdCgsZw"
 }
