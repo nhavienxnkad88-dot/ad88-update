@@ -1,9 +1,9 @@
 {
-  "version": "1.4.143",
-  "zip": "ad88-1.4.143.zip",
-  "sha256": "49821be99dae9a2deed18b1afcea8eca6c455a302a83742001f8761bc779f138",
-  "size": 1741744,
-  "notes": "Mọi kiểu bảng số dư giữ nền, chỉ viền/chữ/số đổi màu; nhẹ hơn (font cắt gọn); kèm 6 mẫu số dư và các nâng cấp trước.",
-  "date": "2026-10-07T06:18:09.871Z",
-  "sig": "FQsMt9wP4mUfTNO1ispVq-jVLrysG9hlCR1G9CaJaNPLOEsJrCWS-QiG6wGsPsSvKNulrP4U8b7hVh_BdCgsZw"
+  "version": "1.4.146",
+  "zip": "ad88-1.4.146.zip",
+  "sha256": "4989afb7d7b9d5dc5f2aef7aea7055c4726d86877ed9317b18a8a3e96c698932",
+  "size": 1745731,
+  "notes": "Nhãn tăng cao/sắp hết to hơn và bấm để lọc; số dư sáng, nét chữ sắc; giao diện Kính mờ mới.",
+  "date": "2026-10-07T07:31:26.563Z",
+  "sig": "834e5FbMlnWm64G6xm5yvIWEzZI0aYhLketzdMFTs-hPMFTJEY7LBmGM6oyMF34LVETG9OTuOWcTB35ujNLhoA"
 }
