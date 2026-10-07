@@ -1,9 +1,9 @@
 {
-  "version": "1.4.133",
-  "zip": "ad88-1.4.133.zip",
-  "sha256": "f9599c3183baa7288fd2c6c430c3f8725cce1f5c6875c2fc5272f07adcd082cc",
-  "size": 1597174,
-  "notes": "Thêm nút SỐ DƯ: bảng số dư nhà thứ 3 tự đọc từ dropdown, cảnh báo vàng/đỏ, nút Ưu tiên x3 lượt, chữ co giãn theo khung.",
-  "date": "2026-10-07T05:00:01.932Z",
-  "sig": "jNrPwxl71EdmJf1pUCkMoW79cw322a4SpRU-YN2nF98pFYb4XUkxcVQPrXbyB2UindQsuIJgQMpgm2mcTOdPYQ"
+  "version": "1.4.136",
+  "zip": "ad88-1.4.136.zip",
+  "sha256": "47ce91779ee8b13437fbf3b417ec103a94d32097a9d3ebcf7caaa57e2daf5d33",
+  "size": 2148574,
+  "notes": "Bảng số dư đổi font Carlito, nhà VND dưới 30 triệu vàng dưới 10 triệu đỏ, mở xử lý đơn USDT TRC20/ERC20.",
+  "date": "2026-10-07T05:21:31.763Z",
+  "sig": "kKeCbvxBVxYcKYWs9iKAl43nh5D_3JyatX0fld7gS3wPYMGt5MuY2ajuhsP1AkvRkRSNhSa96x4o9f-FJtM8WA"
 }
