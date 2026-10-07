@@ -1,9 +1,9 @@
 {
-  "version": "1.4.152",
-  "zip": "ad88-1.4.152.zip",
-  "sha256": "2b5b697bf08d9ef5deb78e94d9044fdecf313d7ca30284fb4f6812b6ccede571",
-  "size": 2042102,
-  "notes": "Tên nhà thứ 3 dùng font đều nét DejaVu Sans Mono, màu trắng xám nhạt.",
-  "date": "2026-10-07T10:46:12.191Z",
-  "sig": "Mt6TxcfRMwipOR6YzuW-3p0bHvR1kr85eDJHZRjjsb3UvA1G2UyZt4MFrB3P7AfxsUT_eCgQ5z1YPlPZRyAaNg"
+  "version": "1.4.154",
+  "zip": "ad88-1.4.154.zip",
+  "sha256": "be3feb5831144f12cc2c907a9b48f1568a7e9610d8f0f5027d12c3a949f09755",
+  "size": 2043064,
+  "notes": "Mặc định MIN/MAX: VND 50.000–15.000.000, USDT 5–1.000 (chỉnh sửa của bạn vẫn được giữ). Thêm nhật ký chẩn đoán chọn nhà thứ 3.",
+  "date": "2026-10-07T13:37:11.037Z",
+  "sig": "9Fao4MHVIjzxcpjvZh0ttcdVCzgupA-qgez8LXSBg7u8QZwuiOwonEupjKcRJ9ns3xK_wy-C4ui7J2AvDxzB8g"
 }
