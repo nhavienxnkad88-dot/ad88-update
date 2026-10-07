@@ -1,9 +1,9 @@
 {
-  "version": "1.4.151",
-  "zip": "ad88-1.4.151.zip",
-  "sha256": "31278399b6ea4f82e55768d38437594c785b480ddd873b7564968cb5fe7cd331",
-  "size": 2020358,
-  "notes": "Bỏ viền khung màu đỏ/xanh/vàng của thẻ nhà thứ 3 ở mọi giao diện.",
-  "date": "2026-10-07T09:09:59.621Z",
-  "sig": "kEB-WTFFwq3jvg7kYOGFEfqH4cs0vHgu-2_tW476AX1YhHCE4a2atnOGWsDlG_zq_X3v_YF9mLLwklc8oGoZ4Q"
+  "version": "1.4.152",
+  "zip": "ad88-1.4.152.zip",
+  "sha256": "2b5b697bf08d9ef5deb78e94d9044fdecf313d7ca30284fb4f6812b6ccede571",
+  "size": 2042102,
+  "notes": "Tên nhà thứ 3 dùng font đều nét DejaVu Sans Mono, màu trắng xám nhạt.",
+  "date": "2026-10-07T10:46:12.191Z",
+  "sig": "Mt6TxcfRMwipOR6YzuW-3p0bHvR1kr85eDJHZRjjsb3UvA1G2UyZt4MFrB3P7AfxsUT_eCgQ5z1YPlPZRyAaNg"
 }
