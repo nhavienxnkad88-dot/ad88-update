@@ -1,9 +1,9 @@
 {
-  "version": "1.4.148",
-  "zip": "ad88-1.4.148.zip",
-  "sha256": "cd4d8f23aacbdf6e5bd866ebdce1ae5ef0cf5e0c0c8190174815725d45ddc442",
-  "size": 1746042,
-  "notes": "Ưu tiên chỉ đẩy các nhà được bấm Ưu tiên (nhiều nhà thì chia đều), bỏ x3.",
-  "date": "2026-10-07T07:57:02.673Z",
-  "sig": "FSgvbrMSSMPaZSMe2NNu4rBDksi1BmyrBcxVO7SULo6a-Q2X3Cd-MSlo2RyqA3iy42mpaA6mRkwX1Ir0JQUj1w"
+  "version": "1.4.149",
+  "zip": "ad88-1.4.149.zip",
+  "sha256": "2eeadeb055fcb42daa4fa4775fc3ce2c0cc997d566afecc3f9a68ed6bd49647c",
+  "size": 1961874,
+  "notes": "Thêm logo từng nhà thứ 3 thay chấm tròn trong bảng số dư; Ưu tiên chỉ đẩy các nhà được chọn.",
+  "date": "2026-10-07T08:19:15.580Z",
+  "sig": "NK28lZQvwkERNtQEl4BqEztKEGHauRPexW1vdcQ6ek8ClT-4qYZE_49TipzYfSjuCnmC2968akrqg98ccX4xVw"
 }
