@@ -1,9 +1,9 @@
 {
-  "version": "1.4.149",
-  "zip": "ad88-1.4.149.zip",
-  "sha256": "2eeadeb055fcb42daa4fa4775fc3ce2c0cc997d566afecc3f9a68ed6bd49647c",
-  "size": 1961874,
-  "notes": "Thêm logo từng nhà thứ 3 thay chấm tròn trong bảng số dư; Ưu tiên chỉ đẩy các nhà được chọn.",
-  "date": "2026-10-07T08:19:15.580Z",
-  "sig": "NK28lZQvwkERNtQEl4BqEztKEGHauRPexW1vdcQ6ek8ClT-4qYZE_49TipzYfSjuCnmC2968akrqg98ccX4xVw"
+  "version": "1.4.150",
+  "zip": "ad88-1.4.150.zip",
+  "sha256": "23a4fb726c532f70f80f786749740b7ba39dca352f6353888739316f2d1a3a4e",
+  "size": 2020264,
+  "notes": "Chỉnh logo các nhà thứ 3 (cắt nền, nền đen cho V6Pay, 888Pay, PayoPay), bỏ logo JYPay.",
+  "date": "2026-10-07T08:36:19.459Z",
+  "sig": "YfICLCHcAnMGjmWY0kWxmFrmQO92MVw-HVAUcwmbGkKxtqWx6GyNnvg70BdQ3A2v1rfuKb4vbQStJWQkMQVs0Q"
 }
