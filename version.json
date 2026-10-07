@@ -1,9 +1,9 @@
 {
-  "version": "1.4.150",
-  "zip": "ad88-1.4.150.zip",
-  "sha256": "23a4fb726c532f70f80f786749740b7ba39dca352f6353888739316f2d1a3a4e",
-  "size": 2020264,
-  "notes": "Chỉnh logo các nhà thứ 3 (cắt nền, nền đen cho V6Pay, 888Pay, PayoPay), bỏ logo JYPay.",
-  "date": "2026-10-07T08:36:19.459Z",
-  "sig": "YfICLCHcAnMGjmWY0kWxmFrmQO92MVw-HVAUcwmbGkKxtqWx6GyNnvg70BdQ3A2v1rfuKb4vbQStJWQkMQVs0Q"
+  "version": "1.4.151",
+  "zip": "ad88-1.4.151.zip",
+  "sha256": "31278399b6ea4f82e55768d38437594c785b480ddd873b7564968cb5fe7cd331",
+  "size": 2020358,
+  "notes": "Bỏ viền khung màu đỏ/xanh/vàng của thẻ nhà thứ 3 ở mọi giao diện.",
+  "date": "2026-10-07T09:09:59.621Z",
+  "sig": "kEB-WTFFwq3jvg7kYOGFEfqH4cs0vHgu-2_tW476AX1YhHCE4a2atnOGWsDlG_zq_X3v_YF9mLLwklc8oGoZ4Q"
 }
