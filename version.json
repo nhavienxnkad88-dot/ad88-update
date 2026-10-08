@@ -1,9 +1,9 @@
 {
-  "version": "1.4.154",
-  "zip": "ad88-1.4.154.zip",
-  "sha256": "be3feb5831144f12cc2c907a9b48f1568a7e9610d8f0f5027d12c3a949f09755",
-  "size": 2043064,
-  "notes": "Mặc định MIN/MAX: VND 50.000–15.000.000, USDT 5–1.000 (chỉnh sửa của bạn vẫn được giữ). Thêm nhật ký chẩn đoán chọn nhà thứ 3.",
-  "date": "2026-10-07T13:37:11.037Z",
-  "sig": "9Fao4MHVIjzxcpjvZh0ttcdVCzgupA-qgez8LXSBg7u8QZwuiOwonEupjKcRJ9ns3xK_wy-C4ui7J2AvDxzB8g"
+  "version": "1.4.155",
+  "zip": "ad88-1.4.155.zip",
+  "sha256": "155013c54b4f5b977dcc2ca029272e8a811de61e4aa59f5391ca9fa901226dee",
+  "size": 2044108,
+  "notes": "Sửa lỗi Bot tự dừng: BO từ chối Khóa, dòng đơn biến mất khi mở khóa, cửa sổ xử lý không mở (bấm lại + mở khóa + bỏ qua). Không đổi Bank Check và cách chọn nhà.",
+  "date": "2026-10-08T05:28:55.599Z",
+  "sig": "xceGtFggXPFbIHxr6OohJM7UhM7l0bevRdr2ue4k61QUQFpyPYRM3YTylk3w3pn8JOdZJ_lkZQ9EEoMfIfm4XA"
 }
