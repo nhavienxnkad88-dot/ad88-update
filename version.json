@@ -1,9 +1,9 @@
 {
-  "version": "1.4.161",
-  "zip": "ad88-1.4.161.zip",
-  "sha256": "be5d230b56aac0d39751b14f8438160b0e2298374886b106914ca808ccc23767",
-  "size": 2046677,
-  "notes": "Ưu tiên mở khóa đơn nhà thứ 3 trả về (đủ 4 điều kiện, đúng tài khoản Tool) trước khi xử lý đơn mới; quét nhẹ tối đa 3 giây/lần. Không đổi Bank Check.",
-  "date": "2026-10-08T06:31:26.099Z",
-  "sig": "LtJF_XsWDwWmjGvoUxCrGjEo_eorxYGgtJZiZyz7zMFPxiZXs6pvhMGQyheGBZvVbYm2I_Gisfd4TRxypzkiyQ"
+  "version": "1.4.162",
+  "zip": "ad88-1.4.162.zip",
+  "sha256": "46b5829c9b0ef4ef95c29d55a28ed311225a0d1c1d31f3fc508903a53b593592",
+  "size": 2048375,
+  "notes": "Thành viên vừa bị Buộc hủy vì sai thông tin ngân hàng (Bank Check) được ghi nhớ 180 phút: Tool bỏ qua đơn của thành viên đó, không khóa. Không áp dụng cho số điện thoại VietinBank/BIDV/MSB. Có công tắc trong Cài đặt. Không đổi Bank Check.",
+  "date": "2026-10-08T07:57:16.283Z",
+  "sig": "jyGKfZ_d4SkhMfX4AczbGBugOtA-jTaqjwrz2O2e-eoS0AgPguPPENEqfT5TSuaMzDkWISE3CtYjKfKX3k_yZA"
 }
