@@ -1,9 +1,9 @@
 {
-  "version": "1.4.155",
-  "zip": "ad88-1.4.155.zip",
-  "sha256": "155013c54b4f5b977dcc2ca029272e8a811de61e4aa59f5391ca9fa901226dee",
-  "size": 2044108,
-  "notes": "Sửa lỗi Bot tự dừng: BO từ chối Khóa, dòng đơn biến mất khi mở khóa, cửa sổ xử lý không mở (bấm lại + mở khóa + bỏ qua). Không đổi Bank Check và cách chọn nhà.",
-  "date": "2026-10-08T05:28:55.599Z",
-  "sig": "xceGtFggXPFbIHxr6OohJM7UhM7l0bevRdr2ue4k61QUQFpyPYRM3YTylk3w3pn8JOdZJ_lkZQ9EEoMfIfm4XA"
+  "version": "1.4.157",
+  "zip": "ad88-1.4.157.zip",
+  "sha256": "6d42200a1a0ed6581d6ce67dc240cfbf376b3553b23f636affece16cf958175a",
+  "size": 2045868,
+  "notes": "Tự mở khóa đơn nhà thứ 3 trả về (chữ đỏ Thanh toán không thành công) nếu là đơn do chính tài khoản Tool xử lý; không đẩy lại. Không đổi Bank Check.",
+  "date": "2026-10-08T06:04:15.204Z",
+  "sig": "SPRH4ze-vhOYcATQgCYRSY2vEZCSFlsQFBBCan7xzzNye5FgpDIoeZVvzRZmmFdOOZmSQStHq8z2AQwlaQ92wA"
 }
