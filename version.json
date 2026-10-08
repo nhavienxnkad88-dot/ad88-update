@@ -1,9 +1,9 @@
 {
-  "version": "1.4.165",
-  "zip": "ad88-1.4.165.zip",
-  "sha256": "4b389acd201eed3f82402a991f4a897c54f6a2f8052a72cace9460e408f77407",
-  "size": 2049277,
-  "notes": "Chế độ nhẹ tắt hẳn Bảng sức khỏe, Tốc độ xử lý, Thống kê, Số dư; giao diện phẳng, giữ Chạy/Dừng, Cài đặt, Nhật ký, Đơn hiện tại. Mặc định tắt. Không đụng tới xử lý đơn và Bank Check.",
-  "date": "2026-10-08T09:37:44.021Z",
-  "sig": "dB7JivSCNGCzJHsgnyxIeUsz25uohTZdgdc6YrEcNucUo9m8kT2sLCn0YSAMo_A0FUopCQtjpEMKI7u7ZTMZLQ"
+  "version": "1.4.166",
+  "zip": "ad88-1.4.166.zip",
+  "sha256": "a6105bf98d9ef2499d4423c7b15018ec82863bb8731cf9ad98e4d9f2a5310bc8",
+  "size": 2049389,
+  "notes": "Sửa lỗi: tắt Tự động kiểm tra Bank thì bỏ qua đơn M trước khi khóa, không còn đơn kẹt khóa. Không đổi Bank Check.",
+  "date": "2026-10-08T09:53:14.745Z",
+  "sig": "tsN6ZswKjOPvmNIGGi2PuYgBLHxMafzkgrwXL7qFpDAJRvInin61FfMRnNGeolyMdpuNVcIr8sTmm4OlQQZndQ"
 }
