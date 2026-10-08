@@ -1,9 +1,9 @@
 {
-  "version": "1.4.162",
-  "zip": "ad88-1.4.162.zip",
-  "sha256": "46b5829c9b0ef4ef95c29d55a28ed311225a0d1c1d31f3fc508903a53b593592",
-  "size": 2048375,
-  "notes": "Thành viên vừa bị Buộc hủy vì sai thông tin ngân hàng (Bank Check) được ghi nhớ 180 phút: Tool bỏ qua đơn của thành viên đó, không khóa. Không áp dụng cho số điện thoại VietinBank/BIDV/MSB. Có công tắc trong Cài đặt. Không đổi Bank Check.",
-  "date": "2026-10-08T07:57:16.283Z",
-  "sig": "jyGKfZ_d4SkhMfX4AczbGBugOtA-jTaqjwrz2O2e-eoS0AgPguPPENEqfT5TSuaMzDkWISE3CtYjKfKX3k_yZA"
+  "version": "1.4.164",
+  "zip": "ad88-1.4.164.zip",
+  "sha256": "fe4a2648d372869055f3a0793a0a51eff0e6c1843756ba0a471ea30026790ef7",
+  "size": 2048781,
+  "notes": "Chế độ nhẹ chuyển sang giao diện cơ bản (phẳng, tắt hiệu ứng, giữ đủ chức năng), mặc định tắt. Không đụng tới xử lý đơn và Bank Check.",
+  "date": "2026-10-08T09:26:55.828Z",
+  "sig": "W8drjomc9TIItqWvqyfgSQo9e_BcQp_PNza-ekkTGoOLws_I6Cl9o1fDHF3odlIg-ojpQEDcu1WXC7MiCs0R3A"
 }
