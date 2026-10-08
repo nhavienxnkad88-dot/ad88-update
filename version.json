@@ -1,9 +1,9 @@
 {
-  "version": "1.4.164",
-  "zip": "ad88-1.4.164.zip",
-  "sha256": "fe4a2648d372869055f3a0793a0a51eff0e6c1843756ba0a471ea30026790ef7",
-  "size": 2048781,
-  "notes": "Chế độ nhẹ chuyển sang giao diện cơ bản (phẳng, tắt hiệu ứng, giữ đủ chức năng), mặc định tắt. Không đụng tới xử lý đơn và Bank Check.",
-  "date": "2026-10-08T09:26:55.828Z",
-  "sig": "W8drjomc9TIItqWvqyfgSQo9e_BcQp_PNza-ekkTGoOLws_I6Cl9o1fDHF3odlIg-ojpQEDcu1WXC7MiCs0R3A"
+  "version": "1.4.165",
+  "zip": "ad88-1.4.165.zip",
+  "sha256": "4b389acd201eed3f82402a991f4a897c54f6a2f8052a72cace9460e408f77407",
+  "size": 2049277,
+  "notes": "Chế độ nhẹ tắt hẳn Bảng sức khỏe, Tốc độ xử lý, Thống kê, Số dư; giao diện phẳng, giữ Chạy/Dừng, Cài đặt, Nhật ký, Đơn hiện tại. Mặc định tắt. Không đụng tới xử lý đơn và Bank Check.",
+  "date": "2026-10-08T09:37:44.021Z",
+  "sig": "dB7JivSCNGCzJHsgnyxIeUsz25uohTZdgdc6YrEcNucUo9m8kT2sLCn0YSAMo_A0FUopCQtjpEMKI7u7ZTMZLQ"
 }
