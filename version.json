@@ -1,9 +1,9 @@
 {
-  "version": "1.4.168",
-  "zip": "ad88-1.4.168.zip",
-  "sha256": "52f1fa44eb7b59854d63b1178c055534aa3758b99d7d76220702eb7e1da48ad2",
-  "size": 2051039,
-  "notes": "Bộ canh khóa: đơn Tool khóa quá 2 phút mà chưa đẩy sang nhà thứ 3 thì tự mở khóa. Không đổi Bank Check.",
-  "date": "2026-10-08T13:27:08.216Z",
-  "sig": "HnLuvleJ2RpfB6HI8-EaaKpY_r5B_YsR6gHTqZEnVCS0b0hB1E4ZLzjESmQdfibVHRJORFbxV-hP-eYDkbSyBg"
+  "version": "1.4.170",
+  "zip": "ad88-1.4.170.zip",
+  "sha256": "2b740072447d5af428ed7e6a608ec519968675fbc6d17e768167dd0eb3e10cd8",
+  "size": 2053254,
+  "notes": "Tự cập nhật số dư nhà thứ 3 (cả nhà tắt, nhà tắt không cảnh báo). Chỉ đọc, có công tắc tắt. Không đổi Bank Check.",
+  "date": "2026-10-09T08:01:26.243Z",
+  "sig": "qf_eyCekATZGso3mHitT4CacTKp1u9KvKlKDuVhvwSQiqUvuumtJZ7lxHX3imGzgeSYX3T0P1A6NAsutTRtTKw"
 }
