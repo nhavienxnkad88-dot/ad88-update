@@ -1,9 +1,9 @@
 {
-  "version": "1.4.176",
-  "zip": "ad88-1.4.176.zip",
-  "sha256": "a3e5a3401338b7ac1e43ede30dad5992d1ae6a3b6626bd8db1b5be02341f5ae3",
-  "size": 2054615,
-  "notes": "Sửa gấp lỗi mất giao diện của 1.4.175; bảng số dư hiện tất cả nhà trừ nhà 0 đồng. Không đổi Bank Check.",
-  "date": "2026-10-09T09:06:04.068Z",
-  "sig": "5gusNpxk4bzlFWd9od1CMm3z6ENNj6snZhztNjDI2F5HvFTF1r3-mMNbQlYcHxzbVp-AXoEE4tuTgFHjnlMRvQ"
+  "version": "1.4.177",
+  "zip": "ad88-1.4.177.zip",
+  "sha256": "1ecb5bea55c275decc7fc34621eb487e32e81ee5c6e00954b0eae64c5244d8b8",
+  "size": 2054947,
+  "notes": "Sửa bảng số dư đứng im khi tài khoản BO thiếu quyền Làm mới: dùng số dư theo danh sách BO và thử lại sau 30 phút. Không đổi Bank Check.",
+  "date": "2026-10-09T09:32:21.151Z",
+  "sig": "Q7lOUvKixMuOyEwsUXj1mB1ropS_XcRBYPgkXgVay9lohQuF0V0qx0OETj71j6SHbi7lXT5y5HzMfFTLaiS86A"
 }
