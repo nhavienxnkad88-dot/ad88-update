@@ -1,9 +1,9 @@
 {
-  "version": "1.4.173",
-  "zip": "ad88-1.4.173.zip",
-  "sha256": "43460873303c7751fee672b626acfd660fe27a32360ba5b42d5780ded78c6acb",
+  "version": "1.4.175",
+  "zip": "ad88-1.4.175.zip",
+  "sha256": "ed2728bd7256dfed5e9479913d939f2ce6f9935f54002476f0a4bc18c9e64f1d",
   "size": 2054546,
-  "notes": "Hai cách gọi số dư tách riêng (mới = Làm mới từng nhà kể cả nhà tắt, mặc định bật; cũ = quét khi đẩy đơn, mặc định tắt), loại trừ nhau; tắt cả hai thì bảng chỉ còn khung. Không đổi Bank Check.",
-  "date": "2026-10-09T08:42:20.490Z",
-  "sig": "UsGQ7UN1V6BsZ-ackSAcdMqcl7Eauf3xt0hcAsnz4IyUfEpAfcWSMAk14wvYyBEFJ3gr0D8zcwRY6zYJkztZog"
+  "notes": "Bảng số dư hiện tất cả nhà (kể cả nhà tắt), chỉ ẩn nhà có số dư 0 đồng; sửa nhà tắt không hiện. Không đổi Bank Check.",
+  "date": "2026-10-09T09:01:50.344Z",
+  "sig": "GWl0NK3wj46z5gKN2D2wahewiBWRGV-NtCAwEmN2Fx4lmhRoAEueThh7hveIiVzyN-4t19grDsTDWbCM7PjTMg"
 }
