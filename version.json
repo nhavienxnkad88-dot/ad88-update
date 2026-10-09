@@ -1,9 +1,9 @@
 {
-  "version": "1.4.171",
-  "zip": "ad88-1.4.171.zip",
-  "sha256": "aa099be7d61f6a2edb35c0731eebb9c93671ee418f66a8bf1a7c119caa1a7daa",
-  "size": 2053185,
-  "notes": "Giảm tải: khi tự cập nhật số dư chạy tốt, bỏ đọc/ghi số dư ở bước đẩy đơn (tự dự phòng nếu lỗi). Không đổi Bank Check.",
-  "date": "2026-10-09T08:11:19.643Z",
-  "sig": "9OY-gOvTRrh5TYzWmBMWkllh5TIeP5nUqPtFRZYOP2GvctnB8LftE5zltH6o2LWtQNCPmTYsyHWHRsQQ3xueoQ"
+  "version": "1.4.173",
+  "zip": "ad88-1.4.173.zip",
+  "sha256": "43460873303c7751fee672b626acfd660fe27a32360ba5b42d5780ded78c6acb",
+  "size": 2054546,
+  "notes": "Hai cách gọi số dư tách riêng (mới = Làm mới từng nhà kể cả nhà tắt, mặc định bật; cũ = quét khi đẩy đơn, mặc định tắt), loại trừ nhau; tắt cả hai thì bảng chỉ còn khung. Không đổi Bank Check.",
+  "date": "2026-10-09T08:42:20.490Z",
+  "sig": "UsGQ7UN1V6BsZ-ackSAcdMqcl7Eauf3xt0hcAsnz4IyUfEpAfcWSMAk14wvYyBEFJ3gr0D8zcwRY6zYJkztZog"
 }
