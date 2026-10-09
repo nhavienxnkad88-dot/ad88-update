@@ -1,9 +1,9 @@
 {
-  "version": "1.4.170",
-  "zip": "ad88-1.4.170.zip",
-  "sha256": "2b740072447d5af428ed7e6a608ec519968675fbc6d17e768167dd0eb3e10cd8",
-  "size": 2053254,
-  "notes": "Tự cập nhật số dư nhà thứ 3 (cả nhà tắt, nhà tắt không cảnh báo). Chỉ đọc, có công tắc tắt. Không đổi Bank Check.",
-  "date": "2026-10-09T08:01:26.243Z",
-  "sig": "qf_eyCekATZGso3mHitT4CacTKp1u9KvKlKDuVhvwSQiqUvuumtJZ7lxHX3imGzgeSYX3T0P1A6NAsutTRtTKw"
+  "version": "1.4.171",
+  "zip": "ad88-1.4.171.zip",
+  "sha256": "aa099be7d61f6a2edb35c0731eebb9c93671ee418f66a8bf1a7c119caa1a7daa",
+  "size": 2053185,
+  "notes": "Giảm tải: khi tự cập nhật số dư chạy tốt, bỏ đọc/ghi số dư ở bước đẩy đơn (tự dự phòng nếu lỗi). Không đổi Bank Check.",
+  "date": "2026-10-09T08:11:19.643Z",
+  "sig": "9OY-gOvTRrh5TYzWmBMWkllh5TIeP5nUqPtFRZYOP2GvctnB8LftE5zltH6o2LWtQNCPmTYsyHWHRsQQ3xueoQ"
 }
