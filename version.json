@@ -1,9 +1,9 @@
 {
-  "version": "1.4.175",
-  "zip": "ad88-1.4.175.zip",
-  "sha256": "ed2728bd7256dfed5e9479913d939f2ce6f9935f54002476f0a4bc18c9e64f1d",
-  "size": 2054546,
-  "notes": "Bảng số dư hiện tất cả nhà (kể cả nhà tắt), chỉ ẩn nhà có số dư 0 đồng; sửa nhà tắt không hiện. Không đổi Bank Check.",
-  "date": "2026-10-09T09:01:50.344Z",
-  "sig": "GWl0NK3wj46z5gKN2D2wahewiBWRGV-NtCAwEmN2Fx4lmhRoAEueThh7hveIiVzyN-4t19grDsTDWbCM7PjTMg"
+  "version": "1.4.176",
+  "zip": "ad88-1.4.176.zip",
+  "sha256": "a3e5a3401338b7ac1e43ede30dad5992d1ae6a3b6626bd8db1b5be02341f5ae3",
+  "size": 2054615,
+  "notes": "Sửa gấp lỗi mất giao diện của 1.4.175; bảng số dư hiện tất cả nhà trừ nhà 0 đồng. Không đổi Bank Check.",
+  "date": "2026-10-09T09:06:04.068Z",
+  "sig": "5gusNpxk4bzlFWd9od1CMm3z6ENNj6snZhztNjDI2F5HvFTF1r3-mMNbQlYcHxzbVp-AXoEE4tuTgFHjnlMRvQ"
 }
