@@ -1,9 +1,9 @@
 {
-  "version": "1.4.190",
-  "zip": "ad88-1.4.190.zip",
-  "sha256": "2d0c9f82bb73b93a47352b784d96d04ec2c3ae5b30bfacf1bc3116ce4a05bf27",
-  "size": 2074805,
-  "notes": "Số tài khoản ngân hàng đầy đủ: tự thử lại khi BO báo lỗi tạm thời để lấy được hết các tài khoản của khách. Không đổi Bank Check và cách xử lý đơn.",
-  "date": "2026-10-10T12:27:56.958Z",
-  "sig": "AeoAmIlQl_6ogvF-7yzUjzY8VyylWEUIJBGjkuLU6nuw3ogK0CtssNgrn88GsnR-WtRTcNCcxccM2yXuPw3M0g"
+  "version": "1.4.194",
+  "zip": "ad88-1.4.194.zip",
+  "sha256": "868b68905eb00ec7f90cb1653f9e9427c95047c1adcd62f438498b242ca018f2",
+  "size": 2076229,
+  "notes": "CHECK ĐƠN NHẬP: tỷ giá USDT sang VND và số tiền quy đổi hiện ở cuối khung KÊNH NẠP cho từng đơn nạp USDT. Chỉ tra cứu, không đổi cách xử lý đơn và Bank Check.",
+  "date": "2026-10-10T13:38:23.517Z",
+  "sig": "rHtEti8LLIpIr7dsdd6WjhqrbhlNE9UyiGDSaFt-1LUQm1UdwZdGCmP27oPwN_u2yFS_hWBeFZPxhNyW5an9YQ"
 }
