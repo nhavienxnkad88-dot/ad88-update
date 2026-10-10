@@ -1,9 +1,9 @@
 {
-  "version": "1.4.200",
-  "zip": "ad88-1.4.200.zip",
-  "sha256": "886626e65c70ab2fb58bd44ebf594cd4b96fb57e21ef90e0a971116791e657f1",
-  "size": 2078553,
-  "notes": "Kết quả API ngân hàng hiển thị hai cột song song, rõ đúng/sai từng mục",
-  "date": "2026-10-10T14:21:07.375Z",
-  "sig": "-SJ3yWqOL6CBsLrk5GdgnLtVZUy0V46bNZ-SjqiI8GVl8G_F-pLRsFuEoMvyFVsK9B7WltALb9OnoDD7U5W9jg"
+  "version": "1.4.201",
+  "zip": "ad88-1.4.201.zip",
+  "sha256": "8a15f7c087239734b7a3b2ebce3c65dfe177f859820c1801bf8eb3e539848a69",
+  "size": 2078582,
+  "notes": "Check đơn xuất gọn hơn: kết quả 1 dòng, thẻ API chỉ 3 ô lấy từ API",
+  "date": "2026-10-10T14:45:09.751Z",
+  "sig": "G9CzBCA-cuDifYmNmhP-OPQ_3eCKVSh7gZwHt5zZD729txFvLeG4hg8TIFr1v1I1CTR6LxcdnV7hJ5UmxvkoeA"
 }
