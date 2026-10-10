@@ -1,9 +1,9 @@
 {
-  "version": "1.4.184",
-  "zip": "ad88-1.4.184.zip",
-  "sha256": "1321f8c4fd544299ae803d04f2c1eaa5e1372940c24b6ed81983e68ac94869ea",
-  "size": 2071181,
-  "notes": "Thêm mục CHECK TÊN TK: nhập tên tài khoản thành viên để xem lịch sử nạp 6 tháng (số lần nạp thành công, tổng tiền, từng lần nạp). Giữ chữ hiện tại. Chỉ đọc, không đổi Bank Check.",
-  "date": "2026-10-10T10:56:43.418Z",
-  "sig": "cIGtsOiKbCvSxoacOlFeVqwjipnnK8bNXu4fCkeGrUkzIRgyrh7bfqpFVgwsA7LWXJ6e6xtYsh7oXQRu0muxLw"
+  "version": "1.4.187",
+  "zip": "ad88-1.4.187.zip",
+  "sha256": "65235c16ded16cac0ca0bff0a46ddc2cda0836513f238d18eda49bbac824f112",
+  "size": 2074603,
+  "notes": "Mục Check thông tin cần nhập key mới dùng được (không có key hiện thông báo bảo mật); gồm icon mới, khung Check mới, CHECK TÊN TK mặc định 1 tháng. Không đổi Bank Check và cách xử lý đơn.",
+  "date": "2026-10-10T12:00:44.522Z",
+  "sig": "kArP8YFpvJfvIHQFj9VqZxVs1vl2Ep9bsVUVIaQpPk3IO-Vpi2woDXrYS7n88WG0rodWKIjHLHzy4aSCnzf3eA"
 }
