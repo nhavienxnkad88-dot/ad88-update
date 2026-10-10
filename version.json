@@ -1,9 +1,9 @@
 {
-  "version": "1.4.182",
-  "zip": "ad88-1.4.182.zip",
-  "sha256": "07a2a479b58557ae04075c8c46f8e5418c21715fd8610e92282da0313869bcca",
-  "size": 2065059,
-  "notes": "Sửa tab Kiểm tra đơn: kéo di chuyển khung bằng thanh tiêu đề và cuộn xem hết kết quả khi thu nhỏ khung. Giữ nguyên tính năng 1.4.181. Không đổi Bank Check.",
-  "date": "2026-10-10T09:29:04.262Z",
-  "sig": "e0mFGG9dkyl24ng-2WB_TaMNs83eCjBFiPbr4P4ynTZmr1Fwt_nm4HM91qUxA--Jy0gtglY3flIk-PrTeb5iCg"
+  "version": "1.4.183",
+  "zip": "ad88-1.4.183.zip",
+  "sha256": "7713851510dc746d9b4d13d482daf76c84f0602e66cef984bf4d08cb53b4502e",
+  "size": 2068329,
+  "notes": "Thêm CHECK ĐƠN NHẬP (tra đơn nạp ở Tổng nạp tiền + Tổng nạp nhanh, kèm tỷ lệ phí từng nhà thứ 3). Đổi tên Kiểm tra đơn thành CHECK ĐƠN XUẤT, 3 mục nằm ngang. Chữ to hơn. Chỉ đọc, không đổi Bank Check.",
+  "date": "2026-10-10T10:24:23.767Z",
+  "sig": "qyaBy4deZ0CECXDdW3oufFxhPPiKyBk19u65KoJhUfg0eyb609zkiFD24xcQUBnHhiMz1IPCO24WZdLucAhDnA"
 }
