@@ -1,9 +1,9 @@
 {
-  "version": "1.4.197",
-  "zip": "ad88-1.4.197.zip",
-  "sha256": "5399f388b2e38e9d2436e1adbfbfd618bbf309a7f3a7052a5e1c21847304fed1",
-  "size": 2076677,
-  "notes": "CHECK ĐƠN XUẤT nhanh hơn: lấy số tài khoản đầy đủ của khách song song thay vì từng cái một. Chỉ tra cứu, không đổi cách xử lý đơn và Bank Check.",
-  "date": "2026-10-10T13:52:36.238Z",
-  "sig": "jzhflIMkm-G0d4s5Y_ylpuiLFVI5AkNRN_hxW2NXaEYRNCNxiWnhYmt7r3BvYUKWSS6aP8SeR5Xchd0DhCwmKQ"
+  "version": "1.4.199",
+  "zip": "ad88-1.4.199.zip",
+  "sha256": "d665b47c6b970d0fb61392c81b02b752609d737252e67df44aadc9f06057e2c1",
+  "size": 2078516,
+  "notes": "Check đơn xuất: kết quả API so sánh từng mục ngân hàng/STK/họ tên, chỉ rõ sai ở đâu",
+  "date": "2026-10-10T14:06:59.975Z",
+  "sig": "kwuh1EuBM0OiiDZp-Fl7PdXkeefUS6z0JTLhyYGqLXuhC73yzbwkFaPZ87cnyKKo7WaHPfR5h7x3JHwUorrUvg"
 }
