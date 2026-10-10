@@ -1,9 +1,9 @@
 {
-  "version": "1.4.188",
-  "zip": "ad88-1.4.188.zip",
-  "sha256": "201fd38124c79897eab6cfbfac700ba468feae464ee63af9fa0d3bd82eddd4ae",
-  "size": 2074325,
-  "notes": "Sửa lỗi hàng nút CHẠY/DỪNG/Cài đặt… bị cao và đè lên khung ĐƠN HIỆN TẠI, chữ CHẠY/DỪNG bị to; giữ icon mới và khóa key mục Check thông tin. Không đổi Bank Check và cách xử lý đơn.",
-  "date": "2026-10-10T12:11:46.388Z",
-  "sig": "x24u3xs7WD2a_gyPjoEopDEFdla_8h_BitMqOvW_VvyPnzCAZgnvhyEJ8BWQIHQftgLOkrFYxpjql7pIzCJfiQ"
+  "version": "1.4.189",
+  "zip": "ad88-1.4.189.zip",
+  "sha256": "fd039adae7ca15f86df0822c82750d05d0022f46450d800e2d8bec3d172e2077",
+  "size": 2074673,
+  "notes": "CHECK ĐƠN XUẤT hiện số tài khoản ngân hàng đầy đủ của khách (không còn bị che), cần quyền xem của tài khoản BO. Không đổi Bank Check và cách xử lý đơn.",
+  "date": "2026-10-10T12:21:17.739Z",
+  "sig": "5dOFXsuif9TdvTrm0uZ7_lMHEVCggWTyn8Eqk-GuTeINSbH2j8ppwqbH1X4h9dZ5mSOuMLQVxZcYhweMYR8Ymw"
 }
