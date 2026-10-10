@@ -1,9 +1,9 @@
 {
-  "version": "1.4.194",
-  "zip": "ad88-1.4.194.zip",
-  "sha256": "868b68905eb00ec7f90cb1653f9e9427c95047c1adcd62f438498b242ca018f2",
-  "size": 2076229,
-  "notes": "CHECK ĐƠN NHẬP: tỷ giá USDT sang VND và số tiền quy đổi hiện ở cuối khung KÊNH NẠP cho từng đơn nạp USDT. Chỉ tra cứu, không đổi cách xử lý đơn và Bank Check.",
-  "date": "2026-10-10T13:38:23.517Z",
-  "sig": "rHtEti8LLIpIr7dsdd6WjhqrbhlNE9UyiGDSaFt-1LUQm1UdwZdGCmP27oPwN_u2yFS_hWBeFZPxhNyW5an9YQ"
+  "version": "1.4.196",
+  "zip": "ad88-1.4.196.zip",
+  "sha256": "6fa9e60c5a53c3bae2c1e98b555a8dfd33498ddf90cad839a07fdd81cd52a8f7",
+  "size": 2076639,
+  "notes": "Đơn USDT ở CHECK ĐƠN XUẤT: hiện số đầy đủ cả tài khoản ngân hàng của khách (trước chỉ ví USDT). Chỉ tra cứu, không đổi cách xử lý đơn và Bank Check.",
+  "date": "2026-10-10T13:45:31.412Z",
+  "sig": "XG5d8Kwy7oSKjhSI05_wqDTvuFZb82AmeF-i78gd3ctkQmJ6wxoZWohcvhTzXEgWGyGEJMn8x3bBIf5paEG5xg"
 }
