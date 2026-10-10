@@ -1,9 +1,9 @@
 {
-  "version": "1.4.187",
-  "zip": "ad88-1.4.187.zip",
-  "sha256": "65235c16ded16cac0ca0bff0a46ddc2cda0836513f238d18eda49bbac824f112",
-  "size": 2074603,
-  "notes": "Mục Check thông tin cần nhập key mới dùng được (không có key hiện thông báo bảo mật); gồm icon mới, khung Check mới, CHECK TÊN TK mặc định 1 tháng. Không đổi Bank Check và cách xử lý đơn.",
-  "date": "2026-10-10T12:00:44.522Z",
-  "sig": "kArP8YFpvJfvIHQFj9VqZxVs1vl2Ep9bsVUVIaQpPk3IO-Vpi2woDXrYS7n88WG0rodWKIjHLHzy4aSCnzf3eA"
+  "version": "1.4.188",
+  "zip": "ad88-1.4.188.zip",
+  "sha256": "201fd38124c79897eab6cfbfac700ba468feae464ee63af9fa0d3bd82eddd4ae",
+  "size": 2074325,
+  "notes": "Sửa lỗi hàng nút CHẠY/DỪNG/Cài đặt… bị cao và đè lên khung ĐƠN HIỆN TẠI, chữ CHẠY/DỪNG bị to; giữ icon mới và khóa key mục Check thông tin. Không đổi Bank Check và cách xử lý đơn.",
+  "date": "2026-10-10T12:11:46.388Z",
+  "sig": "x24u3xs7WD2a_gyPjoEopDEFdla_8h_BitMqOvW_VvyPnzCAZgnvhyEJ8BWQIHQftgLOkrFYxpjql7pIzCJfiQ"
 }
