@@ -1,9 +1,9 @@
 {
-  "version": "1.4.189",
-  "zip": "ad88-1.4.189.zip",
-  "sha256": "fd039adae7ca15f86df0822c82750d05d0022f46450d800e2d8bec3d172e2077",
-  "size": 2074673,
-  "notes": "CHECK ĐƠN XUẤT hiện số tài khoản ngân hàng đầy đủ của khách (không còn bị che), cần quyền xem của tài khoản BO. Không đổi Bank Check và cách xử lý đơn.",
-  "date": "2026-10-10T12:21:17.739Z",
-  "sig": "5dOFXsuif9TdvTrm0uZ7_lMHEVCggWTyn8Eqk-GuTeINSbH2j8ppwqbH1X4h9dZ5mSOuMLQVxZcYhweMYR8Ymw"
+  "version": "1.4.190",
+  "zip": "ad88-1.4.190.zip",
+  "sha256": "2d0c9f82bb73b93a47352b784d96d04ec2c3ae5b30bfacf1bc3116ce4a05bf27",
+  "size": 2074805,
+  "notes": "Số tài khoản ngân hàng đầy đủ: tự thử lại khi BO báo lỗi tạm thời để lấy được hết các tài khoản của khách. Không đổi Bank Check và cách xử lý đơn.",
+  "date": "2026-10-10T12:27:56.958Z",
+  "sig": "AeoAmIlQl_6ogvF-7yzUjzY8VyylWEUIJBGjkuLU6nuw3ogK0CtssNgrn88GsnR-WtRTcNCcxccM2yXuPw3M0g"
 }
