@@ -1,9 +1,9 @@
 {
-  "version": "1.4.201",
-  "zip": "ad88-1.4.201.zip",
-  "sha256": "8a15f7c087239734b7a3b2ebce3c65dfe177f859820c1801bf8eb3e539848a69",
-  "size": 2078582,
-  "notes": "Check đơn xuất gọn hơn: kết quả 1 dòng, thẻ API chỉ 3 ô lấy từ API",
-  "date": "2026-10-10T14:45:09.751Z",
-  "sig": "G9CzBCA-cuDifYmNmhP-OPQ_3eCKVSh7gZwHt5zZD729txFvLeG4hg8TIFr1v1I1CTR6LxcdnV7hJ5UmxvkoeA"
+  "version": "1.4.202",
+  "zip": "ad88-1.4.202.zip",
+  "sha256": "d3954f82badcabefbb98a735af1d600bb056c06c23d61a6edd31da256c340353",
+  "size": 2079064,
+  "notes": "Sửa ô nhập Check không dán được; giảm lag quét nút CHECK",
+  "date": "2026-10-10T15:07:20.101Z",
+  "sig": "jMRgLcKRDMbQmmwZV9X6GVak3rdW3v2dr02_z3yAdpXb1dPCxRPtp5zpvOGGHzJNLP8H5CORFdoVw0pBcSGQ9A"
 }
