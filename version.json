@@ -1,9 +1,9 @@
 {
-  "version": "1.4.177",
-  "zip": "ad88-1.4.177.zip",
-  "sha256": "1ecb5bea55c275decc7fc34621eb487e32e81ee5c6e00954b0eae64c5244d8b8",
-  "size": 2054947,
-  "notes": "Sửa bảng số dư đứng im khi tài khoản BO thiếu quyền Làm mới: dùng số dư theo danh sách BO và thử lại sau 30 phút. Không đổi Bank Check.",
-  "date": "2026-10-09T09:32:21.151Z",
-  "sig": "Q7lOUvKixMuOyEwsUXj1mB1ropS_XcRBYPgkXgVay9lohQuF0V0qx0OETj71j6SHbi7lXT5y5HzMfFTLaiS86A"
+  "version": "1.4.178",
+  "zip": "ad88-1.4.178.zip",
+  "sha256": "c0f36bcecfd8ef3d7afeb6f83096c9a4939780cfc95673db27ac3a1a65218d9f",
+  "size": 2055460,
+  "notes": "Bộ canh khóa tự nhận đơn do tài khoản Tool giữ mà chưa đẩy nhà thứ 3 (không có dấu khóa) và mở khóa sau 2 phút. Không đổi Bank Check.",
+  "date": "2026-10-10T03:53:38.043Z",
+  "sig": "sVO0z3KQpz0ZTxmuQAccAHeUT7L0ja5wuoyk1CTFZJZvORgBIqFQJKzCOvonrEqOiaY9CH50Npf4AZpFHT8BhQ"
 }
