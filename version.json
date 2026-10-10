@@ -1,9 +1,9 @@
 {
-  "version": "1.4.199",
-  "zip": "ad88-1.4.199.zip",
-  "sha256": "d665b47c6b970d0fb61392c81b02b752609d737252e67df44aadc9f06057e2c1",
-  "size": 2078516,
-  "notes": "Check đơn xuất: kết quả API so sánh từng mục ngân hàng/STK/họ tên, chỉ rõ sai ở đâu",
-  "date": "2026-10-10T14:06:59.975Z",
-  "sig": "kwuh1EuBM0OiiDZp-Fl7PdXkeefUS6z0JTLhyYGqLXuhC73yzbwkFaPZ87cnyKKo7WaHPfR5h7x3JHwUorrUvg"
+  "version": "1.4.200",
+  "zip": "ad88-1.4.200.zip",
+  "sha256": "886626e65c70ab2fb58bd44ebf594cd4b96fb57e21ef90e0a971116791e657f1",
+  "size": 2078553,
+  "notes": "Kết quả API ngân hàng hiển thị hai cột song song, rõ đúng/sai từng mục",
+  "date": "2026-10-10T14:21:07.375Z",
+  "sig": "-SJ3yWqOL6CBsLrk5GdgnLtVZUy0V46bNZ-SjqiI8GVl8G_F-pLRsFuEoMvyFVsK9B7WltALb9OnoDD7U5W9jg"
 }
