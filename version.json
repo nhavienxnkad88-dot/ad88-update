@@ -1,9 +1,9 @@
 {
-  "version": "1.4.196",
-  "zip": "ad88-1.4.196.zip",
-  "sha256": "6fa9e60c5a53c3bae2c1e98b555a8dfd33498ddf90cad839a07fdd81cd52a8f7",
-  "size": 2076639,
-  "notes": "Đơn USDT ở CHECK ĐƠN XUẤT: hiện số đầy đủ cả tài khoản ngân hàng của khách (trước chỉ ví USDT). Chỉ tra cứu, không đổi cách xử lý đơn và Bank Check.",
-  "date": "2026-10-10T13:45:31.412Z",
-  "sig": "XG5d8Kwy7oSKjhSI05_wqDTvuFZb82AmeF-i78gd3ctkQmJ6wxoZWohcvhTzXEgWGyGEJMn8x3bBIf5paEG5xg"
+  "version": "1.4.197",
+  "zip": "ad88-1.4.197.zip",
+  "sha256": "5399f388b2e38e9d2436e1adbfbfd618bbf309a7f3a7052a5e1c21847304fed1",
+  "size": 2076677,
+  "notes": "CHECK ĐƠN XUẤT nhanh hơn: lấy số tài khoản đầy đủ của khách song song thay vì từng cái một. Chỉ tra cứu, không đổi cách xử lý đơn và Bank Check.",
+  "date": "2026-10-10T13:52:36.238Z",
+  "sig": "jzhflIMkm-G0d4s5Y_ylpuiLFVI5AkNRN_hxW2NXaEYRNCNxiWnhYmt7r3BvYUKWSS6aP8SeR5Xchd0DhCwmKQ"
 }
