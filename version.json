@@ -1,9 +1,9 @@
 {
-  "version": "1.4.181",
-  "zip": "ad88-1.4.181.zip",
-  "sha256": "553eb24124ebcdf7064a149288afff603b49f523f2cb658f0ec46e905e5d88de",
-  "size": 2065038,
-  "notes": "Kiểm tra đơn nâng cấp: tra đơn bất kỳ qua BO (cả đơn không còn trên trang, kèm tiền tố 01–09), hiện số tài khoản của khách và báo tài khoản MỚI/CŨ. Chỉ đọc. Không đổi Bank Check.",
-  "date": "2026-10-10T09:21:40.804Z",
-  "sig": "1zbthMBqvdcA-Id2RpZG8q6--TrZJWX6dQ-veGzhZGsn-WoGSKYPsrcHhbejtvLfjvop9SlIrEqhPMxF_XIVSw"
+  "version": "1.4.182",
+  "zip": "ad88-1.4.182.zip",
+  "sha256": "07a2a479b58557ae04075c8c46f8e5418c21715fd8610e92282da0313869bcca",
+  "size": 2065059,
+  "notes": "Sửa tab Kiểm tra đơn: kéo di chuyển khung bằng thanh tiêu đề và cuộn xem hết kết quả khi thu nhỏ khung. Giữ nguyên tính năng 1.4.181. Không đổi Bank Check.",
+  "date": "2026-10-10T09:29:04.262Z",
+  "sig": "e0mFGG9dkyl24ng-2WB_TaMNs83eCjBFiPbr4P4ynTZmr1Fwt_nm4HM91qUxA--Jy0gtglY3flIk-PrTeb5iCg"
 }
