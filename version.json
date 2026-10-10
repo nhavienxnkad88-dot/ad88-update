@@ -1,9 +1,9 @@
 {
-  "version": "1.4.183",
-  "zip": "ad88-1.4.183.zip",
-  "sha256": "7713851510dc746d9b4d13d482daf76c84f0602e66cef984bf4d08cb53b4502e",
-  "size": 2068329,
-  "notes": "Thêm CHECK ĐƠN NHẬP (tra đơn nạp ở Tổng nạp tiền + Tổng nạp nhanh, kèm tỷ lệ phí từng nhà thứ 3). Đổi tên Kiểm tra đơn thành CHECK ĐƠN XUẤT, 3 mục nằm ngang. Chữ to hơn. Chỉ đọc, không đổi Bank Check.",
-  "date": "2026-10-10T10:24:23.767Z",
-  "sig": "qyaBy4deZ0CECXDdW3oufFxhPPiKyBk19u65KoJhUfg0eyb609zkiFD24xcQUBnHhiMz1IPCO24WZdLucAhDnA"
+  "version": "1.4.184",
+  "zip": "ad88-1.4.184.zip",
+  "sha256": "1321f8c4fd544299ae803d04f2c1eaa5e1372940c24b6ed81983e68ac94869ea",
+  "size": 2071181,
+  "notes": "Thêm mục CHECK TÊN TK: nhập tên tài khoản thành viên để xem lịch sử nạp 6 tháng (số lần nạp thành công, tổng tiền, từng lần nạp). Giữ chữ hiện tại. Chỉ đọc, không đổi Bank Check.",
+  "date": "2026-10-10T10:56:43.418Z",
+  "sig": "cIGtsOiKbCvSxoacOlFeVqwjipnnK8bNXu4fCkeGrUkzIRgyrh7bfqpFVgwsA7LWXJ6e6xtYsh7oXQRu0muxLw"
 }
