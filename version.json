@@ -1,9 +1,9 @@
 {
-  "version": "1.4.179",
-  "zip": "ad88-1.4.179.zip",
-  "sha256": "3520b9d0d7153786ddcd917425ce6c4e2b399e40143080ffd333a25b75ec0e79",
-  "size": 2055892,
-  "notes": "Sửa lỗi nghiêm trọng Check Bank lấy lẫn dữ liệu 2 đơn (đúng STK nhưng sai ngân hàng): dùng cả họ tên, STK, ngân hàng từ dòng đơn đang xử lý. Không đổi luật kiểm tra.",
-  "date": "2026-10-10T07:46:30.965Z",
-  "sig": "1jGFl7nXHGeCkoBAWjq3_XvTT639TPq931OA8wsXtYHnCFv9pXE8s877kb1AlJ7bOycgwYgviVwD6AZe5XHQVw"
+  "version": "1.4.181",
+  "zip": "ad88-1.4.181.zip",
+  "sha256": "553eb24124ebcdf7064a149288afff603b49f523f2cb658f0ec46e905e5d88de",
+  "size": 2065038,
+  "notes": "Kiểm tra đơn nâng cấp: tra đơn bất kỳ qua BO (cả đơn không còn trên trang, kèm tiền tố 01–09), hiện số tài khoản của khách và báo tài khoản MỚI/CŨ. Chỉ đọc. Không đổi Bank Check.",
+  "date": "2026-10-10T09:21:40.804Z",
+  "sig": "1zbthMBqvdcA-Id2RpZG8q6--TrZJWX6dQ-veGzhZGsn-WoGSKYPsrcHhbejtvLfjvop9SlIrEqhPMxF_XIVSw"
 }
