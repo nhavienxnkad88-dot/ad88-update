@@ -1,9 +1,9 @@
 {
-  "version": "1.4.178",
-  "zip": "ad88-1.4.178.zip",
-  "sha256": "c0f36bcecfd8ef3d7afeb6f83096c9a4939780cfc95673db27ac3a1a65218d9f",
-  "size": 2055460,
-  "notes": "Bộ canh khóa tự nhận đơn do tài khoản Tool giữ mà chưa đẩy nhà thứ 3 (không có dấu khóa) và mở khóa sau 2 phút. Không đổi Bank Check.",
-  "date": "2026-10-10T03:53:38.043Z",
-  "sig": "sVO0z3KQpz0ZTxmuQAccAHeUT7L0ja5wuoyk1CTFZJZvORgBIqFQJKzCOvonrEqOiaY9CH50Npf4AZpFHT8BhQ"
+  "version": "1.4.179",
+  "zip": "ad88-1.4.179.zip",
+  "sha256": "3520b9d0d7153786ddcd917425ce6c4e2b399e40143080ffd333a25b75ec0e79",
+  "size": 2055892,
+  "notes": "Sửa lỗi nghiêm trọng Check Bank lấy lẫn dữ liệu 2 đơn (đúng STK nhưng sai ngân hàng): dùng cả họ tên, STK, ngân hàng từ dòng đơn đang xử lý. Không đổi luật kiểm tra.",
+  "date": "2026-10-10T07:46:30.965Z",
+  "sig": "1jGFl7nXHGeCkoBAWjq3_XvTT639TPq931OA8wsXtYHnCFv9pXE8s877kb1AlJ7bOycgwYgviVwD6AZe5XHQVw"
 }
