@@ -1,9 +1,9 @@
 {
-  "version": "1.4.202",
-  "zip": "ad88-1.4.202.zip",
-  "sha256": "d3954f82badcabefbb98a735af1d600bb056c06c23d61a6edd31da256c340353",
-  "size": 2079064,
-  "notes": "Sửa ô nhập Check không dán được; giảm lag quét nút CHECK",
-  "date": "2026-10-10T15:07:20.101Z",
-  "sig": "jMRgLcKRDMbQmmwZV9X6GVak3rdW3v2dr02_z3yAdpXb1dPCxRPtp5zpvOGGHzJNLP8H5CORFdoVw0pBcSGQ9A"
+  "version": "1.4.203",
+  "zip": "ad88-1.4.203.zip",
+  "sha256": "18ac0fc9c1b4f396eb8200f3133dd49d9df8c77f2be58041e374a06d43eb49b7",
+  "size": 2079996,
+  "notes": "Tự tắt popup BO Trạng thái đơn hàng đã thay đổi, bỏ qua đơn, không bị kẹt",
+  "date": "2026-10-11T04:00:33.420Z",
+  "sig": "Ax59CZTX5Bjmf-ZRgVMvJR3QezWBl2my8voQ-8HTUiKxz-2erroaMCdWd7TqZ9AkfmjDzNZkdLvO3VKDV7onQw"
 }
