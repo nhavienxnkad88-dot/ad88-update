@@ -1,9 +1,9 @@
 {
-  "version": "1.4.203",
-  "zip": "ad88-1.4.203.zip",
-  "sha256": "18ac0fc9c1b4f396eb8200f3133dd49d9df8c77f2be58041e374a06d43eb49b7",
-  "size": 2079996,
-  "notes": "Tự tắt popup BO Trạng thái đơn hàng đã thay đổi, bỏ qua đơn, không bị kẹt",
-  "date": "2026-10-11T04:00:33.420Z",
-  "sig": "Ax59CZTX5Bjmf-ZRgVMvJR3QezWBl2my8voQ-8HTUiKxz-2erroaMCdWd7TqZ9AkfmjDzNZkdLvO3VKDV7onQw"
+  "version": "1.4.204",
+  "zip": "ad88-1.4.204.zip",
+  "sha256": "645f913f5d3ab1d3a3b1e37b9f99f35d32f67d08db10f306a2a286ceecdba3c7",
+  "size": 2080056,
+  "notes": "Thêm công tắc hướng bắt đơn: trên xuống / dưới lên",
+  "date": "2026-10-11T04:04:46.541Z",
+  "sig": "eJlyiVjHg8VbMPbibFA3f-4NQLTFojDIXZ1RNeqRgVDo-19GkG1SdpLThP_J94d62YOqIH9REOnxHy0K-KvRyw"
 }
