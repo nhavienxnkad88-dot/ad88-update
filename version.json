@@ -1,9 +1,9 @@
 {
-  "version": "1.4.204",
-  "zip": "ad88-1.4.204.zip",
-  "sha256": "645f913f5d3ab1d3a3b1e37b9f99f35d32f67d08db10f306a2a286ceecdba3c7",
-  "size": 2080056,
-  "notes": "Thêm công tắc hướng bắt đơn: trên xuống / dưới lên",
-  "date": "2026-10-11T04:04:46.541Z",
-  "sig": "eJlyiVjHg8VbMPbibFA3f-4NQLTFojDIXZ1RNeqRgVDo-19GkG1SdpLThP_J94d62YOqIH9REOnxHy0K-KvRyw"
+  "version": "1.4.205",
+  "zip": "ad88-1.4.205.zip",
+  "sha256": "3fce0e62e1bc2c18976d2292ba09b9bc81cf045bdbf18dd7954b090aa5e157c8",
+  "size": 2080512,
+  "notes": "Sửa lỗi tab BO bị trắng (hết bộ nhớ) khi chạy lâu: tự dọn sổ nhớ cũ",
+  "date": "2026-10-12T14:37:30.627Z",
+  "sig": "XxmmDPw5zyaBjTd-sfz6aUmGqxvl4ou78Wr9tNGmSU6oGip1sn4zn0r9xWGPfvG_tDnh5xYLjLp7T6vIIUfC7g"
 }
