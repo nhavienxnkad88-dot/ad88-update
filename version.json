@@ -1,9 +1,9 @@
 {
-  "version": "1.4.205",
-  "zip": "ad88-1.4.205.zip",
-  "sha256": "3fce0e62e1bc2c18976d2292ba09b9bc81cf045bdbf18dd7954b090aa5e157c8",
-  "size": 2080512,
-  "notes": "Sửa lỗi tab BO bị trắng (hết bộ nhớ) khi chạy lâu: tự dọn sổ nhớ cũ",
-  "date": "2026-10-12T14:37:30.627Z",
-  "sig": "XxmmDPw5zyaBjTd-sfz6aUmGqxvl4ou78Wr9tNGmSU6oGip1sn4zn0r9xWGPfvG_tDnh5xYLjLp7T6vIIUfC7g"
+  "version": "1.4.206",
+  "zip": "ad88-1.4.206.zip",
+  "sha256": "22affb742334883851aab48db072e795419cf54d81fe52f6d532bd2beb27b116",
+  "size": 2080684,
+  "notes": "Sửa lỗi Uncaught khi không có nhà thứ 3 khả dụng: vẫn Mở khóa đơn và SKIP; gồm bản chống hết bộ nhớ",
+  "date": "2026-10-12T15:39:15.446Z",
+  "sig": "2zlYWd9d063ggMTggvF2lJZD4dXzsN8rVcvuOM5AVyKqkzO4L8oFcVGWmzrEjIDPJRJhnu0hZPIG_sc6g4S2mw"
 }
