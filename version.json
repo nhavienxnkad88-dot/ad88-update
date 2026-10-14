@@ -1,9 +1,9 @@
 {
-  "version": "1.4.206",
-  "zip": "ad88-1.4.206.zip",
-  "sha256": "22affb742334883851aab48db072e795419cf54d81fe52f6d532bd2beb27b116",
-  "size": 2080684,
-  "notes": "Sửa lỗi Uncaught khi không có nhà thứ 3 khả dụng: vẫn Mở khóa đơn và SKIP; gồm bản chống hết bộ nhớ",
-  "date": "2026-10-12T15:39:15.446Z",
-  "sig": "2zlYWd9d063ggMTggvF2lJZD4dXzsN8rVcvuOM5AVyKqkzO4L8oFcVGWmzrEjIDPJRJhnu0hZPIG_sc6g4S2mw"
+  "version": "1.4.207",
+  "zip": "ad88-1.4.207.zip",
+  "sha256": "b9c86597fff6a6a9c4756e6363731a133c7cda9387282908ff556ac8718daad3",
+  "size": 2081090,
+  "notes": "Chạy nhẹ khi thu nhỏ giao diện: ngừng vẽ lại và bớt ghi nhật ký; giữ nguyên xử lý đơn",
+  "date": "2026-10-14T03:28:15.348Z",
+  "sig": "1VbsbatnAkcQqlpNysSsO1AFIJd3vT151ALa2_ijyN1nWLtiAxuh0cBUef0SsVokGyxEXVbfmTy5fzHWQJzIPQ"
 }
