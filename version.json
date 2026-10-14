@@ -1,9 +1,9 @@
 {
-  "version": "1.4.207",
-  "zip": "ad88-1.4.207.zip",
-  "sha256": "b9c86597fff6a6a9c4756e6363731a133c7cda9387282908ff556ac8718daad3",
-  "size": 2081090,
-  "notes": "Chạy nhẹ khi thu nhỏ giao diện: ngừng vẽ lại và bớt ghi nhật ký; giữ nguyên xử lý đơn",
-  "date": "2026-10-14T03:28:15.348Z",
-  "sig": "1VbsbatnAkcQqlpNysSsO1AFIJd3vT151ALa2_ijyN1nWLtiAxuh0cBUef0SsVokGyxEXVbfmTy5fzHWQJzIPQ"
+  "version": "1.4.209",
+  "zip": "ad88-1.4.209.zip",
+  "sha256": "07d186e57fc627e8cb5a5bdc4d5f31cd0273be9e5d6e71209404db3afc581a37",
+  "size": 2082967,
+  "notes": "Tự F5 mỗi 1 giờ khi rảnh; sau F5 đóng mọi bảng thông báo rồi chạy (không có thì chạy luôn)",
+  "date": "2026-10-14T08:32:50.034Z",
+  "sig": "gVEERApC2CoTrBSA1tmCqe1VrxXG6LApMmj34yC7xRCFZVlXEY7Pc15kiMhjHJvQyC057lo3oUUy80MwHf-3Rw"
 }
