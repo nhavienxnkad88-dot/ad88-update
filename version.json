@@ -1,9 +1,9 @@
 {
-  "version": "1.4.209",
-  "zip": "ad88-1.4.209.zip",
-  "sha256": "07d186e57fc627e8cb5a5bdc4d5f31cd0273be9e5d6e71209404db3afc581a37",
-  "size": 2082967,
-  "notes": "Tự F5 mỗi 1 giờ khi rảnh; sau F5 đóng mọi bảng thông báo rồi chạy (không có thì chạy luôn)",
-  "date": "2026-10-14T08:32:50.034Z",
-  "sig": "gVEERApC2CoTrBSA1tmCqe1VrxXG6LApMmj34yC7xRCFZVlXEY7Pc15kiMhjHJvQyC057lo3oUUy80MwHf-3Rw"
+  "version": "1.4.211",
+  "zip": "ad88-1.4.211.zip",
+  "sha256": "6142c7a46948213e84dde7f17c61c380bf94c2e08297037578b9ec92ee2e97aa",
+  "size": 2083451,
+  "notes": "Sửa lỗi 2 công tắc mới (đóng popup thông báo, tự F5) không được lưu sau khi F5",
+  "date": "2026-10-14T08:41:12.737Z",
+  "sig": "5EWW37zSeGUpPp6_hkudDEOhTqkA1t08EpcplX8-UKwoQHx3B9zRbAQPUnoBtVpQIrYP7fcO06VywHk8qMfXZg"
 }
