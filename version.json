@@ -1,9 +1,9 @@
 {
-  "version": "1.4.214",
-  "zip": "ad88-1.4.214.zip",
-  "sha256": "05f2c7311d1d4f9538c008d2f2f77a388472802a5987e32cbc0a1b2de5c52ede",
-  "size": 2085466,
-  "notes": "Sửa lỗi nút thu nhỏ bị văng ra ngoài mép màn hình (không tìm thấy, không mở được bảng). Nút luôn được ghim trong màn hình và tự hiện khi chuột lại gần 150px.",
-  "date": "2026-10-20T04:33:17.809Z",
-  "sig": "yBN3NO7sDz5JVjKk6JuoPBok613V37XxyJGdYzTBWJ6inyVeSAQMLZfhruof4G1tmuUkMFUnHUDicGxSGOVLUQ"
+  "version": "1.4.215",
+  "zip": "ad88-1.4.215.zip",
+  "sha256": "647be116f48a46dbf9965982fd5b88ad271b96cfee3815b6cfcb0192ebc2690e",
+  "size": 2085631,
+  "notes": "Viên thuốc giữ nguyên đúng chỗ đã kéo khi mở bảng, thu bảng và F5; vẫn không bao giờ nằm ngoài màn hình.",
+  "date": "2026-10-20T04:43:33.879Z",
+  "sig": "t2c5ulM37U_U2-hUJM8XGsQHMupIYQZziUsgW6SohbhZDSiciLNF18mBEq7XBgGYCdnyCQyUvgYdra5ddzuhig"
 }
