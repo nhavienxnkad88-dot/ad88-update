@@ -1,9 +1,9 @@
 {
-  "version": "1.4.213",
-  "zip": "ad88-1.4.213.zip",
-  "sha256": "d61697c0b0b90c2c55a9c1bfcec0b5a64901374048480df16a3795e316450135",
-  "size": 2084390,
-  "notes": "Giao diện: chấm tròn thu nhỏ đổi thành viên thuốc trạng thái (Đang chạy/Đã dừng), ẩn khi chuột rời, hiện khi chuột vào. Không đổi bắt đơn, Bank Check.",
-  "date": "2026-10-20T04:19:42.487Z",
-  "sig": "b0TxOJSX4G_stwYCqU28kamJt6SgFN14kjQnbldhMPSxxYm6s3uggOskBsN89N7F6Svx0cGyH00MUqcvNtrsvQ"
+  "version": "1.4.214",
+  "zip": "ad88-1.4.214.zip",
+  "sha256": "05f2c7311d1d4f9538c008d2f2f77a388472802a5987e32cbc0a1b2de5c52ede",
+  "size": 2085466,
+  "notes": "Sửa lỗi nút thu nhỏ bị văng ra ngoài mép màn hình (không tìm thấy, không mở được bảng). Nút luôn được ghim trong màn hình và tự hiện khi chuột lại gần 150px.",
+  "date": "2026-10-20T04:33:17.809Z",
+  "sig": "yBN3NO7sDz5JVjKk6JuoPBok613V37XxyJGdYzTBWJ6inyVeSAQMLZfhruof4G1tmuUkMFUnHUDicGxSGOVLUQ"
 }
