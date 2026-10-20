@@ -1,9 +1,9 @@
 {
-  "version": "1.4.211",
-  "zip": "ad88-1.4.211.zip",
-  "sha256": "6142c7a46948213e84dde7f17c61c380bf94c2e08297037578b9ec92ee2e97aa",
-  "size": 2083451,
-  "notes": "Sửa lỗi 2 công tắc mới (đóng popup thông báo, tự F5) không được lưu sau khi F5",
-  "date": "2026-10-14T08:41:12.737Z",
-  "sig": "5EWW37zSeGUpPp6_hkudDEOhTqkA1t08EpcplX8-UKwoQHx3B9zRbAQPUnoBtVpQIrYP7fcO06VywHk8qMfXZg"
+  "version": "1.4.213",
+  "zip": "ad88-1.4.213.zip",
+  "sha256": "d61697c0b0b90c2c55a9c1bfcec0b5a64901374048480df16a3795e316450135",
+  "size": 2084390,
+  "notes": "Giao diện: chấm tròn thu nhỏ đổi thành viên thuốc trạng thái (Đang chạy/Đã dừng), ẩn khi chuột rời, hiện khi chuột vào. Không đổi bắt đơn, Bank Check.",
+  "date": "2026-10-20T04:19:42.487Z",
+  "sig": "b0TxOJSX4G_stwYCqU28kamJt6SgFN14kjQnbldhMPSxxYm6s3uggOskBsN89N7F6Svx0cGyH00MUqcvNtrsvQ"
 }
