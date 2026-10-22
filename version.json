@@ -1,9 +1,9 @@
 {
-  "version": "1.4.217",
-  "zip": "ad88-1.4.217.zip",
-  "sha256": "61a0007ff7df1cb1603de00b45dd2d7c81c9d55f792eee22f3132ed0a20bd2e9",
-  "size": 2917880,
-  "notes": "Robot đi lại thay nút thu nhỏ: 2 robot (trắng, đỏ), bước chân 8 khung mỗi hướng, chạm mép thì nghỉ và làm trò, bấm phải ra menu đổi cỡ-đổi robot-mở bảng tool.",
-  "date": "2026-10-22T11:32:55.077Z",
-  "sig": "8b8qnZeVnA1TCxq4nm8mvP097jpUcoQvW1EykPzKV7F0by20mcxEOJ-Tb0ZQBlIiobQ32noEq0Da5etGD2BtwQ"
+  "version": "1.4.218",
+  "zip": "ad88-1.4.218.zip",
+  "sha256": "542813961f64ca6a35918d571c5ff03bebb2b01f8e29f8c5249cf998e99a8628",
+  "size": 2920881,
+  "notes": "Sửa lỗi ảnh robot bị dính hình con bên cạnh ở mọi tư thế. Cắt lại theo từng con, soi máy toàn bộ 126 khung: 0 khung dính.",
+  "date": "2026-10-22T15:03:56.580Z",
+  "sig": "mmcQWTTZg3uKhE3wFti4Sqo3gjXYnemicT5NtDzrChdI5hqiEhNEg1dInCaMDD0Bx1Rcn6Oj9m77lllHwhwZtA"
 }
