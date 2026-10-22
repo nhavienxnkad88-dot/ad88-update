@@ -1,9 +1,9 @@
 {
-  "version": "1.4.216",
-  "zip": "ad88-1.4.216.zip",
-  "sha256": "45f39aa135c35b5d761dbab9ca484db8f545a35a9edba276821cfa6785c7c453",
-  "size": 2088593,
-  "notes": "Thêm Cài đặt > Bật/tắt ngân hàng (65 nút). Tắt ngân hàng nào thì Tool không bắt đơn của ngân hàng đó, bỏ qua trước khi khóa. Mặc định bật hết.",
-  "date": "2026-10-22T03:19:19.900Z",
-  "sig": "miuAxnczWaVR2Fv0bWNFpmBelFLENnHDaZJplAckrnYN9VXJEWwpc5mHUTivhPMb7oBq06QW3wEhfg3N2cK-6w"
+  "version": "1.4.217",
+  "zip": "ad88-1.4.217.zip",
+  "sha256": "61a0007ff7df1cb1603de00b45dd2d7c81c9d55f792eee22f3132ed0a20bd2e9",
+  "size": 2917880,
+  "notes": "Robot đi lại thay nút thu nhỏ: 2 robot (trắng, đỏ), bước chân 8 khung mỗi hướng, chạm mép thì nghỉ và làm trò, bấm phải ra menu đổi cỡ-đổi robot-mở bảng tool.",
+  "date": "2026-10-22T11:32:55.077Z",
+  "sig": "8b8qnZeVnA1TCxq4nm8mvP097jpUcoQvW1EykPzKV7F0by20mcxEOJ-Tb0ZQBlIiobQ32noEq0Da5etGD2BtwQ"
 }
