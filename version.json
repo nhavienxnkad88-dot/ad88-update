@@ -1,9 +1,9 @@
 {
-  "version": "1.4.222",
-  "zip": "ad88-1.4.222.zip",
-  "sha256": "9e3630cb94f94d3cf20ed90c7e627002eccb296fcff2cbb82e826711b43a8b49",
-  "size": 2923447,
-  "notes": "Tạm tắt hẳn phần số dư nhà thứ 3 cho Tool nhẹ (không gọi BO đọc số dư nữa, ẩn nút SỐ DƯ). Không ảnh hưởng bắt đơn, Check Bank, đẩy nhà thứ 3.",
-  "date": "2026-10-26T12:12:42.513Z",
-  "sig": "f7x6Rj6YTL1EY-iXtKNDksC5YdG0ICa-oPmw3xsgTxvHmImg4sUKVVFXE3WQwNG9bqevP3lv8b-Yw32-MS6ipg"
+  "version": "1.4.223",
+  "zip": "ad88-1.4.223.zip",
+  "sha256": "78f753b5961358621f01863d18baad63722a40edadcb89c8044976a5bfc40b9b",
+  "size": 2925265,
+  "notes": "Chống khóa đơn rồi đứng im khi tab BO bị ẩn (Chrome làm chậm hẹn giờ); hạn chót 150 giây mỗi đơn, quá thì mở khóa trả đơn; chờ Bank Check tối đa 45 giây; mỗi đơn ghi 1 dòng thời gian từng bước.",
+  "date": "2026-10-26T13:24:01.252Z",
+  "sig": "gS-17c-lWhZ1BTgOZvC0xRIoM_Z4PSGAIeMCkc67HuikzZ4AUxNkWbhcYCkBYM8L_0tdDpqIFHEFIRoWdHNP3w"
 }
