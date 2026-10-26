@@ -1,9 +1,9 @@
 {
-  "version": "1.4.221",
-  "zip": "ad88-1.4.221.zip",
-  "sha256": "d12691d36455c71e33f6bc6a766f07bc3184c9556c9b1db77b4f65d0599b2223",
-  "size": 2923360,
-  "notes": "Không bao giờ khóa đơn rồi bỏ đó: lỗi trước khi đẩy thì tự mở khóa trả đơn và chạy tiếp; đã bấm Xác nhận thanh toán thì không mở khóa (tránh đẩy 2 lần). Kiểm tra khóa API Bank Check trước khi khóa đơn.",
-  "date": "2026-10-26T12:00:38.025Z",
-  "sig": "6QQMlO6o5w3QX5r3VwxZbnCncLSH_LB5mhx2XG66wlkRM4t9KNiarZVFEklGRDKehKiuPy5v09AMBwuNOIOEIw"
+  "version": "1.4.222",
+  "zip": "ad88-1.4.222.zip",
+  "sha256": "9e3630cb94f94d3cf20ed90c7e627002eccb296fcff2cbb82e826711b43a8b49",
+  "size": 2923447,
+  "notes": "Tạm tắt hẳn phần số dư nhà thứ 3 cho Tool nhẹ (không gọi BO đọc số dư nữa, ẩn nút SỐ DƯ). Không ảnh hưởng bắt đơn, Check Bank, đẩy nhà thứ 3.",
+  "date": "2026-10-26T12:12:42.513Z",
+  "sig": "f7x6Rj6YTL1EY-iXtKNDksC5YdG0ICa-oPmw3xsgTxvHmImg4sUKVVFXE3WQwNG9bqevP3lv8b-Yw32-MS6ipg"
 }
