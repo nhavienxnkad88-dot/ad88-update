@@ -1,9 +1,9 @@
 {
-  "version": "1.4.218",
-  "zip": "ad88-1.4.218.zip",
-  "sha256": "542813961f64ca6a35918d571c5ff03bebb2b01f8e29f8c5249cf998e99a8628",
-  "size": 2920881,
-  "notes": "Sửa lỗi ảnh robot bị dính hình con bên cạnh ở mọi tư thế. Cắt lại theo từng con, soi máy toàn bộ 126 khung: 0 khung dính.",
-  "date": "2026-10-22T15:03:56.580Z",
-  "sig": "mmcQWTTZg3uKhE3wFti4Sqo3gjXYnemicT5NtDzrChdI5hqiEhNEg1dInCaMDD0Bx1Rcn6Oj9m77lllHwhwZtA"
+  "version": "1.4.219",
+  "zip": "ad88-1.4.219.zip",
+  "sha256": "0b511845fbd8560199daa15ce964fe60bd57cf99b0c34e726c1a5abe5e774fea",
+  "size": 2920991,
+  "notes": "Sửa lỗi Tool khóa đơn rồi bỏ đó không xử lý: khi BO báo Trạng thái đơn hàng đã thay đổi nhưng lệnh Khóa đã ăn, Tool đọc lại xem ai đang giữ đơn rồi xử lý tiếp; nếu Tool giữ mà không xử lý thì tự mở khóa trả đơn về.",
+  "date": "2026-10-26T06:56:20.706Z",
+  "sig": "GcG-fJC_IMUQSusqBsVDyyQG2IXuuLFD99gYr33MfEvoP3wcRgFvAL_IQ9vF9tYOVwO3LpB6UV5PIqDXd0WTYw"
 }
