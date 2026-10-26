@@ -1,9 +1,9 @@
 {
-  "version": "1.4.219",
-  "zip": "ad88-1.4.219.zip",
-  "sha256": "0b511845fbd8560199daa15ce964fe60bd57cf99b0c34e726c1a5abe5e774fea",
-  "size": 2920991,
-  "notes": "Sửa lỗi Tool khóa đơn rồi bỏ đó không xử lý: khi BO báo Trạng thái đơn hàng đã thay đổi nhưng lệnh Khóa đã ăn, Tool đọc lại xem ai đang giữ đơn rồi xử lý tiếp; nếu Tool giữ mà không xử lý thì tự mở khóa trả đơn về.",
-  "date": "2026-10-26T06:56:20.706Z",
-  "sig": "GcG-fJC_IMUQSusqBsVDyyQG2IXuuLFD99gYr33MfEvoP3wcRgFvAL_IQ9vF9tYOVwO3LpB6UV5PIqDXd0WTYw"
+  "version": "1.4.220",
+  "zip": "ad88-1.4.220.zip",
+  "sha256": "2a0930c8be5c74d1cc274c1948c7fbf7f63905116f3a5484caab53e4a90f9284",
+  "size": 2922489,
+  "notes": "Sửa 4 lỗi: không còn dừng Bot vì không đọc được số tiền (mở khóa trả đơn thay vì dừng); thiếu khóa API Bank Check thì mở khóa trả đơn và báo cách nhập, có lại nút Khóa API trong Cài đặt; BO từ chối Khóa thì không bấm lại đơn đó trong 90 giây; tự F5 khi rảnh sau 45 phút.",
+  "date": "2026-10-26T11:45:18.747Z",
+  "sig": "ZL4BUs5qxvsvi92RRbS91BQBsHW6tEro9nakKJuDE8rg1RIvt8ENhzKUe3u6qVp-dsR7yQvP-gUx3Jsn-R7yfg"
 }
