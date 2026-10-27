@@ -1,9 +1,9 @@
 {
-  "version": "1.4.224",
-  "zip": "ad88-1.4.224.zip",
-  "sha256": "a16feb53fac1068f569dbda3b6713ae56119d9999f156f9c48a852675efbaec8",
-  "size": 2925851,
-  "notes": "Sửa lỗi dừng Bot khi bấm Buộc hủy bỏ mà popup Lý do hủy không mở: chờ cửa sổ tải xong mới bấm, bấm lại tối đa 3 lần; vẫn không mở thì mở khóa trả đơn và chạy tiếp.",
-  "date": "2026-10-27T04:00:26.362Z",
-  "sig": "UYuUoMACm1RlTNde_BfvNJcrn33HescmUjbCoEIHexS5lg92os8el5aGUzQtkJSudJsqzZjbO7wdy-EbpWRPqQ"
+  "version": "1.4.225",
+  "zip": "ad88-1.4.225.zip",
+  "sha256": "00fcf266229c2e6a185b6489a95b3fa10fe94fdea15df14df8df4129383358c1",
+  "size": 2927913,
+  "notes": "Bot không tự dừng: lỗi thì mở khóa trả đơn và chạy tiếp; tự nghỉ, tự F5 và tự chạy lại khi lỗi lặp lại hoặc đứng im. Sửa lỗi vòng bắt đơn chết ngầm. Nhẹ hơn cho máy yếu (nhật ký không đọc lại mỗi giây, log gọn).",
+  "date": "2026-10-27T04:17:53.178Z",
+  "sig": "53Yk8T1hbnAluQ3LveRN6SEAP94B1bOU89np7De73CJanKnFWh5tc4zxI2kHiUv2lmUvcBtDnVDd_zK1cZkvkA"
 }
