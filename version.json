@@ -1,9 +1,9 @@
 {
-  "version": "1.4.223",
-  "zip": "ad88-1.4.223.zip",
-  "sha256": "78f753b5961358621f01863d18baad63722a40edadcb89c8044976a5bfc40b9b",
-  "size": 2925265,
-  "notes": "Chống khóa đơn rồi đứng im khi tab BO bị ẩn (Chrome làm chậm hẹn giờ); hạn chót 150 giây mỗi đơn, quá thì mở khóa trả đơn; chờ Bank Check tối đa 45 giây; mỗi đơn ghi 1 dòng thời gian từng bước.",
-  "date": "2026-10-26T13:24:01.252Z",
-  "sig": "gS-17c-lWhZ1BTgOZvC0xRIoM_Z4PSGAIeMCkc67HuikzZ4AUxNkWbhcYCkBYM8L_0tdDpqIFHEFIRoWdHNP3w"
+  "version": "1.4.224",
+  "zip": "ad88-1.4.224.zip",
+  "sha256": "a16feb53fac1068f569dbda3b6713ae56119d9999f156f9c48a852675efbaec8",
+  "size": 2925851,
+  "notes": "Sửa lỗi dừng Bot khi bấm Buộc hủy bỏ mà popup Lý do hủy không mở: chờ cửa sổ tải xong mới bấm, bấm lại tối đa 3 lần; vẫn không mở thì mở khóa trả đơn và chạy tiếp.",
+  "date": "2026-10-27T04:00:26.362Z",
+  "sig": "UYuUoMACm1RlTNde_BfvNJcrn33HescmUjbCoEIHexS5lg92os8el5aGUzQtkJSudJsqzZjbO7wdy-EbpWRPqQ"
 }
