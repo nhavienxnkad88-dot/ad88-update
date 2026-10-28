@@ -1,9 +1,9 @@
 {
-  "version": "1.4.227",
-  "zip": "ad88-1.4.227.zip",
-  "sha256": "ccc4fc94c0b432fabab1b76f6ab29b4721440ce1a065718df888120085553756",
-  "size": 2929762,
-  "notes": "Sửa lỗi tên ngân hàng dạng HỌ TÊN/MÃ SỐ/TÊN CÔNG TY (tài khoản gắn hộ kinh doanh, ví dụ BIDV) bị báo sai: nay so đúng phần họ tên.",
-  "date": "2026-10-28T05:19:20.288Z",
-  "sig": "pW4I0GcKx_AFgmEAI4VhLVvrF_QRIa__L5tylJOudofjrrZxNwROkm-UzmLS1FdKXMCzaWPTpdGoPA0VcRx3sg"
+  "version": "1.4.229",
+  "zip": "ad88-1.4.229.zip",
+  "sha256": "5bd026b9c01f8d03c65429f9579df6ec8563faab0fc8d95b638171627fe20acb",
+  "size": 2930966,
+  "notes": "Giống bot Check Bank: API không tìm thấy tài khoản nhưng ngân hàng, STK và tên hội viên khớp hồ sơ thì báo đúng và tự đẩy nhà thứ 3. Ngân hàng chưa hỗ trợ tra cứu vẫn để kiểm tra tay.",
+  "date": "2026-10-28T05:55:53.492Z",
+  "sig": "bmI_ZChC9ju4O0egzh7kjJ1ov8K4_y0qq4H0ruX_tLgaYk17-KKZauSJWxThne23H8dVoFMlwXFrFQwzdzZ78w"
 }
