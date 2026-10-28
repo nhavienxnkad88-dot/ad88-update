@@ -1,9 +1,9 @@
 {
-  "version": "1.4.225",
-  "zip": "ad88-1.4.225.zip",
-  "sha256": "00fcf266229c2e6a185b6489a95b3fa10fe94fdea15df14df8df4129383358c1",
-  "size": 2927913,
-  "notes": "Bot không tự dừng: lỗi thì mở khóa trả đơn và chạy tiếp; tự nghỉ, tự F5 và tự chạy lại khi lỗi lặp lại hoặc đứng im. Sửa lỗi vòng bắt đơn chết ngầm. Nhẹ hơn cho máy yếu (nhật ký không đọc lại mỗi giây, log gọn).",
-  "date": "2026-10-27T04:17:53.178Z",
-  "sig": "53Yk8T1hbnAluQ3LveRN6SEAP94B1bOU89np7De73CJanKnFWh5tc4zxI2kHiUv2lmUvcBtDnVDd_zK1cZkvkA"
+  "version": "1.4.226",
+  "zip": "ad88-1.4.226.zip",
+  "sha256": "94c1b5f669e34807503b20e9f6a3fb5a03ef7680326ae55ab177c64774b0fc97",
+  "size": 2929768,
+  "notes": "Tên ngân hàng có hậu tố / dãy số ở cuối không còn bị báo sai. Check Bank gửi ngay khi khóa đơn, song song với mở cửa sổ (kết quả không đổi). Thêm công tắc check trước đơn kế tiếp (mặc định tắt).",
+  "date": "2026-10-27T11:46:32.570Z",
+  "sig": "P9pDTcxi8bHYLPBh7Qinx1NdwXqLHqae9CzIR_X_kfHZmuGv8ZnkkFFnFkk0rnnzwogQ6zg1vl-QG4HeD-DBEg"
 }
