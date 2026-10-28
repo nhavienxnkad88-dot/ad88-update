@@ -1,9 +1,9 @@
 {
-  "version": "1.4.226",
-  "zip": "ad88-1.4.226.zip",
-  "sha256": "94c1b5f669e34807503b20e9f6a3fb5a03ef7680326ae55ab177c64774b0fc97",
-  "size": 2929768,
-  "notes": "Tên ngân hàng có hậu tố / dãy số ở cuối không còn bị báo sai. Check Bank gửi ngay khi khóa đơn, song song với mở cửa sổ (kết quả không đổi). Thêm công tắc check trước đơn kế tiếp (mặc định tắt).",
-  "date": "2026-10-27T11:46:32.570Z",
-  "sig": "P9pDTcxi8bHYLPBh7Qinx1NdwXqLHqae9CzIR_X_kfHZmuGv8ZnkkFFnFkk0rnnzwogQ6zg1vl-QG4HeD-DBEg"
+  "version": "1.4.227",
+  "zip": "ad88-1.4.227.zip",
+  "sha256": "ccc4fc94c0b432fabab1b76f6ab29b4721440ce1a065718df888120085553756",
+  "size": 2929762,
+  "notes": "Sửa lỗi tên ngân hàng dạng HỌ TÊN/MÃ SỐ/TÊN CÔNG TY (tài khoản gắn hộ kinh doanh, ví dụ BIDV) bị báo sai: nay so đúng phần họ tên.",
+  "date": "2026-10-28T05:19:20.288Z",
+  "sig": "pW4I0GcKx_AFgmEAI4VhLVvrF_QRIa__L5tylJOudofjrrZxNwROkm-UzmLS1FdKXMCzaWPTpdGoPA0VcRx3sg"
 }
