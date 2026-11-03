@@ -1,9 +1,9 @@
 {
-  "version": "1.4.230",
-  "zip": "ad88-1.4.230.zip",
-  "sha256": "4b237d059d62b969165ec46c319a4f4e03341e1c98b887e3de0a98c276e82176",
-  "size": 2932260,
-  "notes": "Thêm công tắc Bảo trì ngân hàng: khi bật, Tool buộc hủy mọi đơn ngân hàng với note ngân hàng đang bảo trì, không check bank, không đẩy nhà thứ 3.",
-  "date": "2026-11-03T15:48:44.953Z",
-  "sig": "m_qY1ME4RnRKoVDO2g8I5O5dKEidoeAPIdiO3DHYEi03pArqxNOj_WNENo7HhLNoEJZ2Z6FGxfV1hNIRkaeb0Q"
+  "version": "1.4.231",
+  "zip": "ad88-1.4.231.zip",
+  "sha256": "c942b29b5134392e5603ace1ee73462d169ce7bbca17e4b8b705031f83a9c423",
+  "size": 2933913,
+  "notes": "Bảo trì theo từng ngân hàng: tích Bảo trì ở ngân hàng nào thì đơn của ngân hàng đó bị buộc hủy với note bảo trì, không check. Thêm ô Tất cả ngân hàng đều bảo trì dưới danh sách ngân hàng.",
+  "date": "2026-11-03T16:02:39.724Z",
+  "sig": "WzFzYf5kojMjZm-8uO6LwTgoKfjqeXHxGuGWrWGWxHi_7YuImVgJWGR6NHezYdtAbHcV_NwfinmIKYP9YsKu0A"
 }
