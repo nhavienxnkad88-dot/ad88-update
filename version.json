@@ -1,9 +1,9 @@
 {
-  "version": "1.4.229",
-  "zip": "ad88-1.4.229.zip",
-  "sha256": "5bd026b9c01f8d03c65429f9579df6ec8563faab0fc8d95b638171627fe20acb",
-  "size": 2930966,
-  "notes": "Giống bot Check Bank: API không tìm thấy tài khoản nhưng ngân hàng, STK và tên hội viên khớp hồ sơ thì báo đúng và tự đẩy nhà thứ 3. Ngân hàng chưa hỗ trợ tra cứu vẫn để kiểm tra tay.",
-  "date": "2026-10-28T05:55:53.492Z",
-  "sig": "bmI_ZChC9ju4O0egzh7kjJ1ov8K4_y0qq4H0ruX_tLgaYk17-KKZauSJWxThne23H8dVoFMlwXFrFQwzdzZ78w"
+  "version": "1.4.230",
+  "zip": "ad88-1.4.230.zip",
+  "sha256": "4b237d059d62b969165ec46c319a4f4e03341e1c98b887e3de0a98c276e82176",
+  "size": 2932260,
+  "notes": "Thêm công tắc Bảo trì ngân hàng: khi bật, Tool buộc hủy mọi đơn ngân hàng với note ngân hàng đang bảo trì, không check bank, không đẩy nhà thứ 3.",
+  "date": "2026-11-03T15:48:44.953Z",
+  "sig": "m_qY1ME4RnRKoVDO2g8I5O5dKEidoeAPIdiO3DHYEi03pArqxNOj_WNENo7HhLNoEJZ2Z6FGxfV1hNIRkaeb0Q"
 }
