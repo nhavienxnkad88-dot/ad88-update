@@ -1,9 +1,9 @@
 {
-  "version": "1.4.231",
-  "zip": "ad88-1.4.231.zip",
-  "sha256": "c942b29b5134392e5603ace1ee73462d169ce7bbca17e4b8b705031f83a9c423",
-  "size": 2933913,
-  "notes": "Bảo trì theo từng ngân hàng: tích Bảo trì ở ngân hàng nào thì đơn của ngân hàng đó bị buộc hủy với note bảo trì, không check. Thêm ô Tất cả ngân hàng đều bảo trì dưới danh sách ngân hàng.",
-  "date": "2026-11-03T16:02:39.724Z",
-  "sig": "WzFzYf5kojMjZm-8uO6LwTgoKfjqeXHxGuGWrWGWxHi_7YuImVgJWGR6NHezYdtAbHcV_NwfinmIKYP9YsKu0A"
+  "version": "1.4.233",
+  "zip": "ad88-1.4.233.zip",
+  "sha256": "eda2efbc927ba47ce9bbce072336a7e3704af99050b9656e38063c6534ebcca7",
+  "size": 2926109,
+  "notes": "Bỏ hẳn phần số dư cho nhẹ + tải lại trang (F5 / Ối, hỏng) thì tự mở khóa đơn đang xử lý dở. Gồm cả 1.4.232: chống Ối, hỏng, dừng đẩy đơn qua ngày 23:58:00 → 00:00:05 giờ chuẩn.",
+  "date": "2026-11-13T17:30:55.936Z",
+  "sig": "m_pqZQdhDPIxjoFnI22C9AitM3lx0JJhP8-lcqudqOcTB6i1sZfh1tfIoiwN5bndLv8KYqTO7RC2XeNq9lVIig"
 }
