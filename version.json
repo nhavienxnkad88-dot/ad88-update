@@ -1,9 +1,9 @@
 {
-  "version": "1.4.235",
-  "zip": "ad88-1.4.235.zip",
-  "sha256": "f94a3e09d3bf6cb9b4b146dfe54f20615c2d9f70e4b7f80331b72bb72113595f",
-  "size": 2927608,
-  "notes": "Viên thuốc báo đúng trạng thái (Đang xử lý đơn, Đã xử lý, Sai thông tin – đã trả đơn về, 1 đơn cần kiểm tra, Chờ qua ngày, Đã dừng) + màu mới sắc nét.",
-  "date": "2026-11-13T19:34:36.731Z",
-  "sig": "cHgyJvWsVSW-mtXRJe4jksjSowUAV6LhS0TbHkvce_k-R7PodJwh_Y9HVA_74KlDbFxYVQvTRgLJDvLTHGud1g"
+  "version": "1.4.236",
+  "zip": "ad88-1.4.236.zip",
+  "sha256": "b78571a250a28e76391756ba2d8de2416b49bf3348cdc75062a199ec43bf3a1e",
+  "size": 2095670,
+  "notes": "Viên thuốc chữ màu xanh/vàng/đỏ rõ nét + công tắc Luôn hiện viên thuốc (Cài đặt → Giao diện) + bỏ hẳn Robot đi lại cho nhẹ.",
+  "date": "2026-11-13T19:50:52.642Z",
+  "sig": "Fx6fTHm2Z6EwO0MPCYhUOPn9IP7VrCeuhxDnVsV_2Zukg9iqrgtVCsrDzQFcN-V7CzVjnq1XRwl2Z9BqG5p5zQ"
 }
