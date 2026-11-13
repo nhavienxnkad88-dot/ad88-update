@@ -1,9 +1,9 @@
 {
-  "version": "1.4.237",
-  "zip": "ad88-1.4.237.zip",
-  "sha256": "33afe91740f0b72c95054eb1da08f036853d8dbb85f2c240f19a8c87283fd019",
-  "size": 2854297,
-  "notes": "Popup Check Bank kiểu mới theo mẫu (xanh: mộc ĐÃ KHỚP, đỏ: mộc SAI + lý do sai rõ ràng) + logo thật 62 ngân hàng + bỏ popup Mở khóa tay (viên thuốc báo vàng kèm mã đơn).",
-  "date": "2026-11-13T22:38:29.111Z",
-  "sig": "rZLxsBSvsRZ85lAld7zKQDsrQv4eBdczvQ6QhN1X4ePxDXdgS4AyYzCA7ycF8PFZVBZX2c-FLkTI271p6cWklA"
+  "version": "1.4.238",
+  "zip": "ad88-1.4.238.zip",
+  "sha256": "47b82e593136bc82dbf42443d1016f394b5a13394d075a85cb25db0120896d6e",
+  "size": 2855358,
+  "notes": "Popup Check Bank kéo được tới chỗ muốn, Tool nhớ vị trí (nhấp đúp = về chỗ cũ); đang kéo thì không tự tắt; mặc định không che menu BO. Gồm luôn 1.4.237 (popup kiểu mới, logo ngân hàng).",
+  "date": "2026-11-13T22:55:53.346Z",
+  "sig": "aBT0jTy28CyWTTZTFfqBpTrADBae7dh2BkHVFf6ajnuKuGAQ80Z4i4irYe3iaVqyztU3Ne1OdctrdUCCO9eh0w"
 }
