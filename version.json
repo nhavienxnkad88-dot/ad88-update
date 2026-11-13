@@ -1,9 +1,9 @@
 {
-  "version": "1.4.236",
-  "zip": "ad88-1.4.236.zip",
-  "sha256": "b78571a250a28e76391756ba2d8de2416b49bf3348cdc75062a199ec43bf3a1e",
-  "size": 2095670,
-  "notes": "Viên thuốc chữ màu xanh/vàng/đỏ rõ nét + công tắc Luôn hiện viên thuốc (Cài đặt → Giao diện) + bỏ hẳn Robot đi lại cho nhẹ.",
-  "date": "2026-11-13T19:50:52.642Z",
-  "sig": "Fx6fTHm2Z6EwO0MPCYhUOPn9IP7VrCeuhxDnVsV_2Zukg9iqrgtVCsrDzQFcN-V7CzVjnq1XRwl2Z9BqG5p5zQ"
+  "version": "1.4.237",
+  "zip": "ad88-1.4.237.zip",
+  "sha256": "33afe91740f0b72c95054eb1da08f036853d8dbb85f2c240f19a8c87283fd019",
+  "size": 2854297,
+  "notes": "Popup Check Bank kiểu mới theo mẫu (xanh: mộc ĐÃ KHỚP, đỏ: mộc SAI + lý do sai rõ ràng) + logo thật 62 ngân hàng + bỏ popup Mở khóa tay (viên thuốc báo vàng kèm mã đơn).",
+  "date": "2026-11-13T22:38:29.111Z",
+  "sig": "rZLxsBSvsRZ85lAld7zKQDsrQv4eBdczvQ6QhN1X4ePxDXdgS4AyYzCA7ycF8PFZVBZX2c-FLkTI271p6cWklA"
 }
