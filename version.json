@@ -1,9 +1,9 @@
 {
-  "version": "1.4.234",
-  "zip": "ad88-1.4.234.zip",
-  "sha256": "133ccb6da4ffec9108c8027b5cfc22e86417f7b4c9f03868efbb1b0320983c56",
-  "size": 2925990,
-  "notes": "Cài đặt gom theo nhóm (bấm tên nhóm để mở/đóng) + sửa màu dòng giờ chuẩn ở giao diện sáng.",
-  "date": "2026-11-13T18:03:55.790Z",
-  "sig": "4uMe_tnKTZgFNOlFC6LVrSmbUK0xUtM7igMrvPCqthJ-pr1IxyKtsZLXShndcY8lFscIh2nkm2b6ZW2v2BIbSg"
+  "version": "1.4.235",
+  "zip": "ad88-1.4.235.zip",
+  "sha256": "f94a3e09d3bf6cb9b4b146dfe54f20615c2d9f70e4b7f80331b72bb72113595f",
+  "size": 2927608,
+  "notes": "Viên thuốc báo đúng trạng thái (Đang xử lý đơn, Đã xử lý, Sai thông tin – đã trả đơn về, 1 đơn cần kiểm tra, Chờ qua ngày, Đã dừng) + màu mới sắc nét.",
+  "date": "2026-11-13T19:34:36.731Z",
+  "sig": "cHgyJvWsVSW-mtXRJe4jksjSowUAV6LhS0TbHkvce_k-R7PodJwh_Y9HVA_74KlDbFxYVQvTRgLJDvLTHGud1g"
 }
