@@ -1,9 +1,9 @@
 {
-  "version": "1.4.245",
-  "zip": "ad88-1.4.245.zip",
-  "sha256": "558227b4f6ffeb8c19f464d92fa805bcdbb78bb5724fbe2c84dd80479c7f44e1",
-  "size": 2998369,
-  "notes": "CHECK ĐƠN XUẤT: Chi tiết API trả về hiện đầy đủ (kể cả danh sách tài khoản bên trong) để kiểm tra lỗi Techcombank. Check Bank không đổi so với 1.4.244.",
-  "date": "2026-11-14T18:41:47.106Z",
-  "sig": "z5DB6M0Xo5QMbahprRyB3i0OGyEHExzCcb5OB2Vmi9h_x5gZgRHLL3i7iPiJUVESIufu0uQBcDcoYNY5xtyKmg"
+  "version": "1.4.246",
+  "zip": "ad88-1.4.246.zip",
+  "sha256": "6ef46f2ce99db6d78749ff2718a571cadc191d6adb608b695ebbab92b9f564d5",
+  "size": 2998900,
+  "notes": "Check Bank Techcombank: đọc đúng phần kết quả của ngân hàng (không lấy nhầm tên khách API lưu); ngân hàng không tìm thấy tài khoản → kiểm tra tay.",
+  "date": "2026-11-14T18:55:07.354Z",
+  "sig": "GnfS7isBMNTVlApNdoriOn2daWgPhdo8u5hyhLNCqm9Kc8vvTofYMBNF0iYAxldTmUUN0a2TUS52pNxy5P9v8g"
 }
