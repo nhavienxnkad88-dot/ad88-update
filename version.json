@@ -1,9 +1,9 @@
 {
-  "version": "1.4.243",
-  "zip": "ad88-1.4.243.zip",
-  "sha256": "2fd178cc0a10fe19646d6d4c69ce80400d577d47d0a9ac3d47c31b60855a8a39",
-  "size": 2996885,
-  "notes": "Thống kê: bấm thẳng vào ô Đã xử lý / Đơn trả lại để xem tất cả đơn (bỏ dòng chữ nhỏ Xem tất cả). Check Bank giữ như 1.4.242.",
-  "date": "2026-11-14T17:10:05.953Z",
-  "sig": "kU4zoXgY8cWwcRCzXSZk4t95wxCrF14-pkg7z84cbER_jTGS2xImrQUZu9W5IGoItnkVXgUCtVh_83O02ySxew"
+  "version": "1.4.244",
+  "zip": "ad88-1.4.244.zip",
+  "sha256": "a13b28ad2aa838a4c12cd7f4a2b4dbdc8b8cc68effe51656ccbdd5d5a159680c",
+  "size": 2997661,
+  "notes": "Check Bank Techcombank: sửa đơn đúng bị trả về khi API không ghi ngân hàng (tên ngân hàng tra ra khớp tên trên đơn + STK trùng → đúng); chỉ tính tên do ngân hàng trả.",
+  "date": "2026-11-14T18:34:53.943Z",
+  "sig": "KCuZm6QWkOLKGzlzJcDxiTTyXslRIzlUtkUp2avMevy7opEnl9tk0CO2q2jhr2pwVPb34RIjy3-5IwhaETLAgw"
 }
