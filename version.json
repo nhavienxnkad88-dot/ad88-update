@@ -1,9 +1,9 @@
 {
-  "version": "1.4.239",
-  "zip": "ad88-1.4.239.zip",
-  "sha256": "e6d730b74ab8fb17c4107feb62f205d338ee1c2eeea217c959adbcfe9fc373c9",
-  "size": 2994456,
-  "notes": "Popup 'chưa xác định' kiểu vé cam; bấm STK trên popup để sao chép; Thống kê hiện họ tên/ngân hàng/STK, bấm đơn xem chi tiết lý do sai; Check tên TK bấm vào lần nạp để xem đủ thông tin đơn (mã đơn, nhà thứ 3, phí...).",
-  "date": "2026-11-14T15:27:51.286Z",
-  "sig": "sAJ84yqwVcWp_cGwdBc4bhi3ht_Vqqdot-AQoenCG0SgdIzLrduPhBnNqn0XbdHlOJlXaao3FcMucv3g5vH1Lg"
+  "version": "1.4.240",
+  "zip": "ad88-1.4.240.zip",
+  "sha256": "f95f06115937d42fcde9322064d191699500c7e5004bf72717a21696aa053d77",
+  "size": 2995980,
+  "notes": "Sửa Check Bank báo sai khi tên ngân hàng khớp đúng tên trên đơn (STK, ngân hàng cũng khớp); Thống kê đơn mới đủ họ tên/ngân hàng/STK/số tiền; nút Kiểm tra lại đơn này.",
+  "date": "2026-11-14T15:50:29.644Z",
+  "sig": "F25huH1rOv24YxY3NMKn11BKV1fLOrVj2YL4ayZqnSo4-bTXDp5pVJuVdW3wTLYCznGYk7P8yYSCec0lj-fz-A"
 }
