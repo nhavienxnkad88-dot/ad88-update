@@ -1,9 +1,9 @@
 {
-  "version": "1.4.248",
-  "zip": "ad88-1.4.248.zip",
-  "sha256": "2e105e37d1707852e6b7a5870f3b33b7fbbfea4842471f25bf4721387d68cacf",
-  "size": 3000789,
-  "notes": "Cài đặt mới: tự tích từng ngân hàng — không tìm thấy tài khoản thì báo vàng, không trả đơn (mặc định không tích ngân hàng nào).",
-  "date": "2026-11-14T19:17:35.861Z",
-  "sig": "jC07q_oruDSlhvJCREByojpIx52XtozmY9zdw2nPCzSM0tc8OjnI9WHtM43eXLuHje7XFCDhBT0tbt5DfPNvxQ"
+  "version": "1.4.249",
+  "zip": "ad88-1.4.249.zip",
+  "sha256": "0816e22806778bae232bfff807cf3974ba255c8929d476d46d1d41e22c179417",
+  "size": 3004180,
+  "notes": "Thống kê thêm mục Không kiểm tra được (Đơn trả lại màu đỏ); tự nhận ngân hàng bảo trì khi nhiều đơn liên tiếp không tra được → trả đơn với note bảo trì, tra ra lại thì tự hết.",
+  "date": "2026-11-14T21:14:57.504Z",
+  "sig": "1xewClH54llHMUJwgqhmjw3WWv-QElR7C0YACFO3GsbSTsm4f2a1EWA06p3jv6MaumVJEFYpQZqhsLBLvkL5RA"
 }
