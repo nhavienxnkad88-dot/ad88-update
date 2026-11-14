@@ -1,9 +1,9 @@
 {
-  "version": "1.4.247",
-  "zip": "ad88-1.4.247.zip",
-  "sha256": "8aed6292b44210ba7e868afc7c669036b19142f3b279e41bce1e2dadc5ebaabd",
-  "size": 2999316,
-  "notes": "Check Bank: không tìm thấy tài khoản → chỉ Techcombank để kiểm tra tay; ngân hàng khác báo sai và trả đơn như đơn sai thông tin.",
-  "date": "2026-11-14T19:05:32.578Z",
-  "sig": "h6Cv23sloKwSdxoajf3E21ukzKWgtopKF2LgH8sAz9fUQ6YWGRtnNddx9g8R0oTHlxf1iz7G-tDTEMrz8BM1_A"
+  "version": "1.4.248",
+  "zip": "ad88-1.4.248.zip",
+  "sha256": "2e105e37d1707852e6b7a5870f3b33b7fbbfea4842471f25bf4721387d68cacf",
+  "size": 3000789,
+  "notes": "Cài đặt mới: tự tích từng ngân hàng — không tìm thấy tài khoản thì báo vàng, không trả đơn (mặc định không tích ngân hàng nào).",
+  "date": "2026-11-14T19:17:35.861Z",
+  "sig": "jC07q_oruDSlhvJCREByojpIx52XtozmY9zdw2nPCzSM0tc8OjnI9WHtM43eXLuHje7XFCDhBT0tbt5DfPNvxQ"
 }
