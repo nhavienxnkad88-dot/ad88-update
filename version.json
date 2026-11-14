@@ -1,9 +1,9 @@
 {
-  "version": "1.4.240",
-  "zip": "ad88-1.4.240.zip",
-  "sha256": "f95f06115937d42fcde9322064d191699500c7e5004bf72717a21696aa053d77",
-  "size": 2995980,
-  "notes": "Sửa Check Bank báo sai khi tên ngân hàng khớp đúng tên trên đơn (STK, ngân hàng cũng khớp); Thống kê đơn mới đủ họ tên/ngân hàng/STK/số tiền; nút Kiểm tra lại đơn này.",
-  "date": "2026-11-14T15:50:29.644Z",
-  "sig": "F25huH1rOv24YxY3NMKn11BKV1fLOrVj2YL4ayZqnSo4-bTXDp5pVJuVdW3wTLYCznGYk7P8yYSCec0lj-fz-A"
+  "version": "1.4.241",
+  "zip": "ad88-1.4.241.zip",
+  "sha256": "b986d499c2e13f2268a460b7d26ba5f83ca6140df22702e5faf5b05c90457452",
+  "size": 2995315,
+  "notes": "Check Bank quay lại y như 1.4.239 (bỏ quy tắc 1.4.240 đã đẩy nhầm tài khoản không hợp lệ); giữ Thống kê đủ thông tin, số tiền, nút Kiểm tra lại đơn này.",
+  "date": "2026-11-14T16:05:59.699Z",
+  "sig": "NK9czfZamKio1Zel1-lICCMSCcb4wVYzRyDEt94eN2K7fztLUHnd0S8IAI6wcbIVaCw1dQXv76Lry8UFm2NZAA"
 }
