@@ -1,9 +1,9 @@
 {
-  "version": "1.4.246",
-  "zip": "ad88-1.4.246.zip",
-  "sha256": "6ef46f2ce99db6d78749ff2718a571cadc191d6adb608b695ebbab92b9f564d5",
-  "size": 2998900,
-  "notes": "Check Bank Techcombank: đọc đúng phần kết quả của ngân hàng (không lấy nhầm tên khách API lưu); ngân hàng không tìm thấy tài khoản → kiểm tra tay.",
-  "date": "2026-11-14T18:55:07.354Z",
-  "sig": "GnfS7isBMNTVlApNdoriOn2daWgPhdo8u5hyhLNCqm9Kc8vvTofYMBNF0iYAxldTmUUN0a2TUS52pNxy5P9v8g"
+  "version": "1.4.247",
+  "zip": "ad88-1.4.247.zip",
+  "sha256": "8aed6292b44210ba7e868afc7c669036b19142f3b279e41bce1e2dadc5ebaabd",
+  "size": 2999316,
+  "notes": "Check Bank: không tìm thấy tài khoản → chỉ Techcombank để kiểm tra tay; ngân hàng khác báo sai và trả đơn như đơn sai thông tin.",
+  "date": "2026-11-14T19:05:32.578Z",
+  "sig": "h6Cv23sloKwSdxoajf3E21ukzKWgtopKF2LgH8sAz9fUQ6YWGRtnNddx9g8R0oTHlxf1iz7G-tDTEMrz8BM1_A"
 }
