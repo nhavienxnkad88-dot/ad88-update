@@ -1,9 +1,9 @@
 {
-  "version": "1.4.238",
-  "zip": "ad88-1.4.238.zip",
-  "sha256": "47b82e593136bc82dbf42443d1016f394b5a13394d075a85cb25db0120896d6e",
-  "size": 2855358,
-  "notes": "Popup Check Bank kéo được tới chỗ muốn, Tool nhớ vị trí (nhấp đúp = về chỗ cũ); đang kéo thì không tự tắt; mặc định không che menu BO. Gồm luôn 1.4.237 (popup kiểu mới, logo ngân hàng).",
-  "date": "2026-11-13T22:55:53.346Z",
-  "sig": "aBT0jTy28CyWTTZTFfqBpTrADBae7dh2BkHVFf6ajnuKuGAQ80Z4i4irYe3iaVqyztU3Ne1OdctrdUCCO9eh0w"
+  "version": "1.4.239",
+  "zip": "ad88-1.4.239.zip",
+  "sha256": "e6d730b74ab8fb17c4107feb62f205d338ee1c2eeea217c959adbcfe9fc373c9",
+  "size": 2994456,
+  "notes": "Popup 'chưa xác định' kiểu vé cam; bấm STK trên popup để sao chép; Thống kê hiện họ tên/ngân hàng/STK, bấm đơn xem chi tiết lý do sai; Check tên TK bấm vào lần nạp để xem đủ thông tin đơn (mã đơn, nhà thứ 3, phí...).",
+  "date": "2026-11-14T15:27:51.286Z",
+  "sig": "sAJ84yqwVcWp_cGwdBc4bhi3ht_Vqqdot-AQoenCG0SgdIzLrduPhBnNqn0XbdHlOJlXaao3FcMucv3g5vH1Lg"
 }
