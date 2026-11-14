@@ -1,9 +1,9 @@
 {
-  "version": "1.4.244",
-  "zip": "ad88-1.4.244.zip",
-  "sha256": "a13b28ad2aa838a4c12cd7f4a2b4dbdc8b8cc68effe51656ccbdd5d5a159680c",
-  "size": 2997661,
-  "notes": "Check Bank Techcombank: sửa đơn đúng bị trả về khi API không ghi ngân hàng (tên ngân hàng tra ra khớp tên trên đơn + STK trùng → đúng); chỉ tính tên do ngân hàng trả.",
-  "date": "2026-11-14T18:34:53.943Z",
-  "sig": "KCuZm6QWkOLKGzlzJcDxiTTyXslRIzlUtkUp2avMevy7opEnl9tk0CO2q2jhr2pwVPb34RIjy3-5IwhaETLAgw"
+  "version": "1.4.245",
+  "zip": "ad88-1.4.245.zip",
+  "sha256": "558227b4f6ffeb8c19f464d92fa805bcdbb78bb5724fbe2c84dd80479c7f44e1",
+  "size": 2998369,
+  "notes": "CHECK ĐƠN XUẤT: Chi tiết API trả về hiện đầy đủ (kể cả danh sách tài khoản bên trong) để kiểm tra lỗi Techcombank. Check Bank không đổi so với 1.4.244.",
+  "date": "2026-11-14T18:41:47.106Z",
+  "sig": "z5DB6M0Xo5QMbahprRyB3i0OGyEHExzCcb5OB2Vmi9h_x5gZgRHLL3i7iPiJUVESIufu0uQBcDcoYNY5xtyKmg"
 }
