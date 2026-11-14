@@ -1,9 +1,9 @@
 {
-  "version": "1.4.242",
-  "zip": "ad88-1.4.242.zip",
-  "sha256": "5aaf153ad1faa449ffc57f1206c800c470dfbd20c7ab40b6297b817938da0c2e",
-  "size": 2996419,
-  "notes": "Check Bank: sửa đúng thành sai (API so với tên khách cũ) và sai thành đúng (ngân hàng không tìm thấy tài khoản → kiểm tra tay); giữ Thống kê đủ thông tin, số tiền, nút Kiểm tra lại đơn này.",
-  "date": "2026-11-14T16:21:04.052Z",
-  "sig": "3X5KPKg9wmFC7Eonq6szalB-PwLfApwRKDeYYC_iEpItGq7xf_jLPsogg9Tg_HkcVRxL4-A09iusAJJmwsNktQ"
+  "version": "1.4.243",
+  "zip": "ad88-1.4.243.zip",
+  "sha256": "2fd178cc0a10fe19646d6d4c69ce80400d577d47d0a9ac3d47c31b60855a8a39",
+  "size": 2996885,
+  "notes": "Thống kê: bấm thẳng vào ô Đã xử lý / Đơn trả lại để xem tất cả đơn (bỏ dòng chữ nhỏ Xem tất cả). Check Bank giữ như 1.4.242.",
+  "date": "2026-11-14T17:10:05.953Z",
+  "sig": "kU4zoXgY8cWwcRCzXSZk4t95wxCrF14-pkg7z84cbER_jTGS2xImrQUZu9W5IGoItnkVXgUCtVh_83O02ySxew"
 }
