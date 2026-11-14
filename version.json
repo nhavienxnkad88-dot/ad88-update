@@ -1,9 +1,9 @@
 {
-  "version": "1.4.241",
-  "zip": "ad88-1.4.241.zip",
-  "sha256": "b986d499c2e13f2268a460b7d26ba5f83ca6140df22702e5faf5b05c90457452",
-  "size": 2995315,
-  "notes": "Check Bank quay lại y như 1.4.239 (bỏ quy tắc 1.4.240 đã đẩy nhầm tài khoản không hợp lệ); giữ Thống kê đủ thông tin, số tiền, nút Kiểm tra lại đơn này.",
-  "date": "2026-11-14T16:05:59.699Z",
-  "sig": "NK9czfZamKio1Zel1-lICCMSCcb4wVYzRyDEt94eN2K7fztLUHnd0S8IAI6wcbIVaCw1dQXv76Lry8UFm2NZAA"
+  "version": "1.4.242",
+  "zip": "ad88-1.4.242.zip",
+  "sha256": "5aaf153ad1faa449ffc57f1206c800c470dfbd20c7ab40b6297b817938da0c2e",
+  "size": 2996419,
+  "notes": "Check Bank: sửa đúng thành sai (API so với tên khách cũ) và sai thành đúng (ngân hàng không tìm thấy tài khoản → kiểm tra tay); giữ Thống kê đủ thông tin, số tiền, nút Kiểm tra lại đơn này.",
+  "date": "2026-11-14T16:21:04.052Z",
+  "sig": "3X5KPKg9wmFC7Eonq6szalB-PwLfApwRKDeYYC_iEpItGq7xf_jLPsogg9Tg_HkcVRxL4-A09iusAJJmwsNktQ"
 }
