@@ -1,9 +1,9 @@
 {
-  "version": "1.4.249",
-  "zip": "ad88-1.4.249.zip",
-  "sha256": "0816e22806778bae232bfff807cf3974ba255c8929d476d46d1d41e22c179417",
-  "size": 3004180,
-  "notes": "Thống kê thêm mục Không kiểm tra được (Đơn trả lại màu đỏ); tự nhận ngân hàng bảo trì khi nhiều đơn liên tiếp không tra được → trả đơn với note bảo trì, tra ra lại thì tự hết.",
-  "date": "2026-11-14T21:14:57.504Z",
-  "sig": "1xewClH54llHMUJwgqhmjw3WWv-QElR7C0YACFO3GsbSTsm4f2a1EWA06p3jv6MaumVJEFYpQZqhsLBLvkL5RA"
+  "version": "1.4.250",
+  "zip": "ad88-1.4.250.zip",
+  "sha256": "225b0a345dc231914d0a8a5caadf67fc2f72ffec83ed76fe0ead649ecb142969",
+  "size": 3005834,
+  "notes": "Sửa: sau khi tự F5 Tool tự chạy lại cả khi danh sách trống; bấm Chạy / tự chạy lại thì mở khóa ngay đơn Tool giữ từ trước chưa đẩy, đơn nhà thứ 3 trả về.",
+  "date": "2026-11-15T00:24:22.649Z",
+  "sig": "k2zZF57lMmeFknu3xsrvD8ZsmtTzxiWremWv-t9-0ocYgTVpm4QjzbxehdkktlUQODGkaEOWw3zpHaZTmpS9kg"
 }
