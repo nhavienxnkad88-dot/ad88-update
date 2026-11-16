@@ -1,9 +1,9 @@
 {
-  "version": "1.4.250",
-  "zip": "ad88-1.4.250.zip",
-  "sha256": "225b0a345dc231914d0a8a5caadf67fc2f72ffec83ed76fe0ead649ecb142969",
-  "size": 3005834,
-  "notes": "Sửa: sau khi tự F5 Tool tự chạy lại cả khi danh sách trống; bấm Chạy / tự chạy lại thì mở khóa ngay đơn Tool giữ từ trước chưa đẩy, đơn nhà thứ 3 trả về.",
-  "date": "2026-11-15T00:24:22.649Z",
-  "sig": "k2zZF57lMmeFknu3xsrvD8ZsmtTzxiWremWv-t9-0ocYgTVpm4QjzbxehdkktlUQODGkaEOWw3zpHaZTmpS9kg"
+  "version": "1.4.251",
+  "zip": "ad88-1.4.251.zip",
+  "sha256": "8f3f6ea4084dd711a3ea350736b4e709dc266deee1b6cd7b34ca4d2a7ee51dfc",
+  "size": 3005399,
+  "notes": "Thêm nút Chọn tất cả / Tắt tất cả ở mục Không tìm thấy tài khoản → báo vàng.",
+  "date": "2026-11-16T17:08:49.012Z",
+  "sig": "Com1x6xlpilS0ghjANR_icYnQbxdeTjx3wHRc2ZO8wAz2VtLPMRS2skvuZd1VTtlwkpRu0uGuSfFEUOoEY1GeQ"
 }
