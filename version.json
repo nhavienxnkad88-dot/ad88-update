@@ -1,9 +1,9 @@
 {
-  "version": "1.4.255",
-  "zip": "ad88-1.4.255.zip",
-  "sha256": "3fc28f95b6cf08ba92135be28c23cdc8f1c5a71531b60d630095b41206633140",
-  "size": 3023347,
-  "notes": "Thêm: đếm ngầm lượt tra trên ngân hàng (xem trong Cài đặt → Check qua ngân hàng).",
-  "date": "2026-11-16T18:51:27.122Z",
-  "sig": "0jcgD0a_2VqIS46slDG2K22EyNn3U1YHJCQu9zdlHP3QPTzzypF3Knq2TdUBuPDPYGigvO9-ARggRKU1T7w_3w"
+  "version": "1.4.256",
+  "zip": "ad88-1.4.256.zip",
+  "sha256": "5d091a89be1ef616735aa45d3a8670d5a8e45cd8053c9981ec50272136ba6de7",
+  "size": 3024354,
+  "notes": "Check qua ngân hàng: VietinBank chắc chắn không tìm thấy tài khoản → trả đơn sai thông tin (kể cả ngân hàng đang tích báo vàng); ngân hàng báo lỗi hệ thống / chưa chắc → vẫn báo vàng.",
+  "date": "2026-11-16T21:11:39.664Z",
+  "sig": "5n2YI6Ybqo3p6EIzo7lUCSErrzHLzDgoWRQBH1XlKAsH35X2Jylxt1ZIY7FswIvGC79Enu80ABbpBiA_3SSK9g"
 }
