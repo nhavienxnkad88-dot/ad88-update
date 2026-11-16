@@ -1,9 +1,9 @@
 {
-  "version": "1.4.258",
-  "zip": "ad88-1.4.258.zip",
-  "sha256": "8151798ae5ef9bd6e6ff0e5b6333b6be32c38cf6a4392ac2c580393cc2982540",
-  "size": 3026989,
-  "notes": "Thêm: nhật ký phiên VietinBank (khi nào văng, giữ được bao lâu, lý do) trong Check qua ngân hàng.",
-  "date": "2026-11-16T22:37:08.068Z",
-  "sig": "ADZcfGwJCHDlqnAEuOggxJ7m1NiwHKAeNeoaW8Oh9MUYTxEDbryDlAz-legKeIarUb4Akztxq_YyTfbRpPmjyg"
+  "version": "1.4.259",
+  "zip": "ad88-1.4.259.zip",
+  "sha256": "4343961f7303c8d9bf1ff6306313742fdd7ea0e263fd93d3a60f03eb77cecab2",
+  "size": 3027683,
+  "notes": "Sửa: F5 giữ đăng nhập chạy cả khi đang xem tab ngân hàng (chỉ chờ khi đang gõ hoặc Tool đang tra); sửa lỗi không lăn chuột được ở mục Check qua ngân hàng.",
+  "date": "2026-11-16T22:47:15.411Z",
+  "sig": "Ig-R2uvqLxvmL-EU7jXynsm4Qbp4xhaELTr2785uEsoHEqaybNJmuWUONh_VNQ7Dxfqiqk08fITQC91I8Eh2dg"
 }
