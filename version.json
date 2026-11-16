@@ -1,9 +1,9 @@
 {
-  "version": "1.4.259",
-  "zip": "ad88-1.4.259.zip",
-  "sha256": "4343961f7303c8d9bf1ff6306313742fdd7ea0e263fd93d3a60f03eb77cecab2",
-  "size": 3027683,
-  "notes": "Sửa: F5 giữ đăng nhập chạy cả khi đang xem tab ngân hàng (chỉ chờ khi đang gõ hoặc Tool đang tra); sửa lỗi không lăn chuột được ở mục Check qua ngân hàng.",
-  "date": "2026-11-16T22:47:15.411Z",
-  "sig": "Ig-R2uvqLxvmL-EU7jXynsm4Qbp4xhaELTr2785uEsoHEqaybNJmuWUONh_VNQ7Dxfqiqk08fITQC91I8Eh2dg"
+  "version": "1.4.260",
+  "zip": "ad88-1.4.260.zip",
+  "sha256": "0155e264bcd25503f4c105fef5c2bb81934b43a4ffdea58639fb247f3e65b43c",
+  "size": 3027787,
+  "notes": "Sửa lại: lăn chuột được ở mục Check qua ngân hàng (1.4.259 sửa chưa đúng vùng cuộn).",
+  "date": "2026-11-16T22:54:49.401Z",
+  "sig": "R_QDCIjLRnWy4uForpLBl0ZmBOetbfFyPNzImgrBqx4AU5VO8I62EBMsYoL1aEjtPkneQPf0Eh_2XEqumezIjw"
 }
