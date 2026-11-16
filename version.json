@@ -1,9 +1,9 @@
 {
-  "version": "1.4.253",
-  "zip": "ad88-1.4.253.zip",
-  "sha256": "d8550d842c52e4500625662559dcade7a616cd49e9b08a798c646422e7a24f9b",
-  "size": 3018252,
-  "notes": "Thêm: check không ra tên → Tool tự tra lại trên web VietinBank đang đăng nhập (Cài đặt → Check Bank → Web ngân hàng, mặc định tắt).",
-  "date": "2026-11-16T18:06:56.425Z",
-  "sig": "YZVP7GgG2UyXBO0jMBMFnHVkzJEX0tJOkprYLYyB-_FwDFDGhjzOCjc8hzByR_QSxxnkzdflUpnsA3j5Mj8cUA"
+  "version": "1.4.254",
+  "zip": "ad88-1.4.254.zip",
+  "sha256": "7e2ec5f11c024b44592f870425f7e45e174948646827a0d78d4d01a1e58d2def",
+  "size": 3022386,
+  "notes": "Check qua ngân hàng: mục riêng + công tắc từng máy, tra ngầm nhanh hơn, tự mở màn chuyển tiền, hiện câu báo của ngân hàng, nút Kiểm tra ngân hàng trong chi tiết đơn.",
+  "date": "2026-11-16T18:31:12.387Z",
+  "sig": "jMl06iRlbKYr9m6ycIwuGYeVfDii_z9KJ4L2i6iAUYmUx6WBXt_ViU7cOWB1K6ci6Gjz3uLSy1g1aqeC6L6VlA"
 }
