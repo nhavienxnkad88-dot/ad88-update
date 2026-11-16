@@ -1,9 +1,9 @@
 {
-  "version": "1.4.251",
-  "zip": "ad88-1.4.251.zip",
-  "sha256": "8f3f6ea4084dd711a3ea350736b4e709dc266deee1b6cd7b34ca4d2a7ee51dfc",
-  "size": 3005399,
-  "notes": "Thêm nút Chọn tất cả / Tắt tất cả ở mục Không tìm thấy tài khoản → báo vàng.",
-  "date": "2026-11-16T17:08:49.012Z",
-  "sig": "Com1x6xlpilS0ghjANR_icYnQbxdeTjx3wHRc2ZO8wAz2VtLPMRS2skvuZd1VTtlwkpRu0uGuSfFEUOoEY1GeQ"
+  "version": "1.4.252",
+  "zip": "ad88-1.4.252.zip",
+  "sha256": "3f34f3533ca2abf2509d8ec1e1923bc2609ba628d1b589ada3b42d5fb5b7d9b9",
+  "size": 3008390,
+  "notes": "Thêm: Giữ đăng nhập ngân hàng — tự F5 tab web VietinBank / MB Bank / TPBank mỗi 3 phút (Cài đặt → Check Bank, mặc định tắt).",
+  "date": "2026-11-16T17:26:31.915Z",
+  "sig": "ocYfnwAwjK_igV_iq0o3LLBDCgADr2VC80WXb9i78Y5GUf5SrYXGfY4Jb7xAJ8hOEgteclwujrdWXEVwIUSqOg"
 }
