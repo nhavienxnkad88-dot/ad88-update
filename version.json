@@ -1,9 +1,9 @@
 {
-  "version": "1.4.256",
-  "zip": "ad88-1.4.256.zip",
-  "sha256": "5d091a89be1ef616735aa45d3a8670d5a8e45cd8053c9981ec50272136ba6de7",
-  "size": 3024354,
-  "notes": "Check qua ngân hàng: VietinBank chắc chắn không tìm thấy tài khoản → trả đơn sai thông tin (kể cả ngân hàng đang tích báo vàng); ngân hàng báo lỗi hệ thống / chưa chắc → vẫn báo vàng.",
-  "date": "2026-11-16T21:11:39.664Z",
-  "sig": "5n2YI6Ybqo3p6EIzo7lUCSErrzHLzDgoWRQBH1XlKAsH35X2Jylxt1ZIY7FswIvGC79Enu80ABbpBiA_3SSK9g"
+  "version": "1.4.257",
+  "zip": "ad88-1.4.257.zip",
+  "sha256": "287b75045b8bde84eebd28c993069ab7e1b919ec8587792baa681b888dc7db13",
+  "size": 3024615,
+  "notes": "Check qua ngân hàng: API không ra tên → tra VietinBank; VietinBank cũng không ra thông tin (bất kể lý do) → trả đơn sai thông tin. Không tra được → theo mục Không tìm thấy tài khoản.",
+  "date": "2026-11-16T21:23:24.489Z",
+  "sig": "tTungUQByp-FgNxwl6SzX766845C2YckWLebVhNRei5Lp7Ijnh7caT1m-t7Sf8_hI1D4W7kmAHRqhf8Hs_cumA"
 }
