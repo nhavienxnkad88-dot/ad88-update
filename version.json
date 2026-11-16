@@ -1,9 +1,9 @@
 {
-  "version": "1.4.257",
-  "zip": "ad88-1.4.257.zip",
-  "sha256": "287b75045b8bde84eebd28c993069ab7e1b919ec8587792baa681b888dc7db13",
-  "size": 3024615,
-  "notes": "Check qua ngân hàng: API không ra tên → tra VietinBank; VietinBank cũng không ra thông tin (bất kể lý do) → trả đơn sai thông tin. Không tra được → theo mục Không tìm thấy tài khoản.",
-  "date": "2026-11-16T21:23:24.489Z",
-  "sig": "tTungUQByp-FgNxwl6SzX766845C2YckWLebVhNRei5Lp7Ijnh7caT1m-t7Sf8_hI1D4W7kmAHRqhf8Hs_cumA"
+  "version": "1.4.258",
+  "zip": "ad88-1.4.258.zip",
+  "sha256": "8151798ae5ef9bd6e6ff0e5b6333b6be32c38cf6a4392ac2c580393cc2982540",
+  "size": 3026989,
+  "notes": "Thêm: nhật ký phiên VietinBank (khi nào văng, giữ được bao lâu, lý do) trong Check qua ngân hàng.",
+  "date": "2026-11-16T22:37:08.068Z",
+  "sig": "ADZcfGwJCHDlqnAEuOggxJ7m1NiwHKAeNeoaW8Oh9MUYTxEDbryDlAz-legKeIarUb4Akztxq_YyTfbRpPmjyg"
 }
