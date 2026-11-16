@@ -1,9 +1,9 @@
 {
-  "version": "1.4.260",
-  "zip": "ad88-1.4.260.zip",
-  "sha256": "0155e264bcd25503f4c105fef5c2bb81934b43a4ffdea58639fb247f3e65b43c",
-  "size": 3027787,
-  "notes": "Sửa lại: lăn chuột được ở mục Check qua ngân hàng (1.4.259 sửa chưa đúng vùng cuộn).",
-  "date": "2026-11-16T22:54:49.401Z",
-  "sig": "R_QDCIjLRnWy4uForpLBl0ZmBOetbfFyPNzImgrBqx4AU5VO8I62EBMsYoL1aEjtPkneQPf0Eh_2XEqumezIjw"
+  "version": "1.4.261",
+  "zip": "ad88-1.4.261.zip",
+  "sha256": "44e973d863b36f1e5bc9516a3279d52f1da53bb2dc720f18f2f949d6025bbd64",
+  "size": 3028372,
+  "notes": "Giao diện Cài đặt gọn lại: bỏ viền sáng từng ô, mỗi nhóm một màu riêng (vạch trái + tên + mũi tên); giữ nguyên mọi mục và chức năng.",
+  "date": "2026-11-16T23:04:49.825Z",
+  "sig": "edtt0EC33J57GZgOF7KBKmOdTAC8dTXBhFQbR-tTXw7z_XzBQufe95E1hfkwG7t7OMwiJEhR6yTXd_nCagwccQ"
 }
