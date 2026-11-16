@@ -1,9 +1,9 @@
 {
-  "version": "1.4.252",
-  "zip": "ad88-1.4.252.zip",
-  "sha256": "3f34f3533ca2abf2509d8ec1e1923bc2609ba628d1b589ada3b42d5fb5b7d9b9",
-  "size": 3008390,
-  "notes": "Thêm: Giữ đăng nhập ngân hàng — tự F5 tab web VietinBank / MB Bank / TPBank mỗi 3 phút (Cài đặt → Check Bank, mặc định tắt).",
-  "date": "2026-11-16T17:26:31.915Z",
-  "sig": "ocYfnwAwjK_igV_iq0o3LLBDCgADr2VC80WXb9i78Y5GUf5SrYXGfY4Jb7xAJ8hOEgteclwujrdWXEVwIUSqOg"
+  "version": "1.4.253",
+  "zip": "ad88-1.4.253.zip",
+  "sha256": "d8550d842c52e4500625662559dcade7a616cd49e9b08a798c646422e7a24f9b",
+  "size": 3018252,
+  "notes": "Thêm: check không ra tên → Tool tự tra lại trên web VietinBank đang đăng nhập (Cài đặt → Check Bank → Web ngân hàng, mặc định tắt).",
+  "date": "2026-11-16T18:06:56.425Z",
+  "sig": "YZVP7GgG2UyXBO0jMBMFnHVkzJEX0tJOkprYLYyB-_FwDFDGhjzOCjc8hzByR_QSxxnkzdflUpnsA3j5Mj8cUA"
 }
