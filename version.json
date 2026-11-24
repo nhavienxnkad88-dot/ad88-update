@@ -1,9 +1,9 @@
 {
-  "version": "1.4.262",
-  "zip": "ad88-1.4.262.zip",
-  "sha256": "d0453740ca8e0ebbeb9ca5ee58036c9d32043303866a8e4df736e5f13b95218a",
-  "size": 3029658,
-  "notes": "Sửa note khi trả đơn có STK là số điện thoại ở VietinBank/BIDV/MSB: điền đúng câu \"VIETINBANK BIDV MSB ĐÃ NGỪNG SỬ DỤNG SỐ ĐIỆN THOẠI LÀM TÀI KHOẢN...\" vào cả Ghi chú front-end và Lý do hủy (trước đây bị điền note sai thông tin).",
-  "date": "2026-11-20T17:56:31.697Z",
-  "sig": "T1Jfgt0eaIwWm9wAPhi2sd_XIroC1XLpfF7iLmyJ2Mgs6NBRNLbYZSZj8pFJmLc761Fo8N1TTc8V1WLqT_AhJg"
+  "version": "1.4.263",
+  "zip": "ad88-1.4.263.zip",
+  "sha256": "493fc120bf5a7912d51a3a258bf776ad7ecaf9e316c57d6c1c0310368027f62a",
+  "size": 3030784,
+  "notes": "Tự F5 trang BO luôn bật (30 phút, đã bỏ công tắc trong Cài đặt); trước khi F5 ghi nhớ mọi đơn tài khoản Tool đang giữ chưa đẩy nhà thứ 3, tải lại xong mở khóa trả hết ngay.",
+  "date": "2026-11-24T21:25:27.079Z",
+  "sig": "kAC6uyBt5JtmcI51OruzCbLDi_SxZVO5SZVthPrf1Fr1QnM-1E0dbEzU69KgCtVncon8P9W0zA3gva1ao2pHmw"
 }
