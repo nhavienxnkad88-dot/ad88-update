@@ -1,9 +1,9 @@
 {
-  "version": "1.4.263",
-  "zip": "ad88-1.4.263.zip",
-  "sha256": "493fc120bf5a7912d51a3a258bf776ad7ecaf9e316c57d6c1c0310368027f62a",
-  "size": 3030784,
-  "notes": "Tự F5 trang BO luôn bật (30 phút, đã bỏ công tắc trong Cài đặt); trước khi F5 ghi nhớ mọi đơn tài khoản Tool đang giữ chưa đẩy nhà thứ 3, tải lại xong mở khóa trả hết ngay.",
-  "date": "2026-11-24T21:25:27.079Z",
-  "sig": "kAC6uyBt5JtmcI51OruzCbLDi_SxZVO5SZVthPrf1Fr1QnM-1E0dbEzU69KgCtVncon8P9W0zA3gva1ao2pHmw"
+  "version": "1.4.264",
+  "zip": "ad88-1.4.264.zip",
+  "sha256": "82f3912265984dae37cb6dd6a5b4d0f0e752a3bdc2ea13f12da7d951166ef99e",
+  "size": 3034928,
+  "notes": "Sửa lỗi Tool giữ đơn \"Thanh toán 0 lần\": BO không nhận lệnh Xác nhận thì Tool tự mở khóa trả đơn ngay; sửa gốc lỗi kiểm tra chọn nhà thứ 3 (tưởng đã chọn khi ô còn trống); luôn ghi nhật ký kể cả khi thu nhỏ.",
+  "date": "2026-11-25T18:09:11.285Z",
+  "sig": "RLmOSIOsw9FxtOoiiDPtPUGwZDc8FYT15F5YN8jm_K9SC5BU2Bobd56LOTi2jkVEM5J5LgY4csLdiVA32tjlkw"
 }
