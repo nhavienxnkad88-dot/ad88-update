@@ -1,9 +1,9 @@
 {
-  "version": "1.4.264",
-  "zip": "ad88-1.4.264.zip",
-  "sha256": "82f3912265984dae37cb6dd6a5b4d0f0e752a3bdc2ea13f12da7d951166ef99e",
-  "size": 3034928,
-  "notes": "Sửa lỗi Tool giữ đơn \"Thanh toán 0 lần\": BO không nhận lệnh Xác nhận thì Tool tự mở khóa trả đơn ngay; sửa gốc lỗi kiểm tra chọn nhà thứ 3 (tưởng đã chọn khi ô còn trống); luôn ghi nhật ký kể cả khi thu nhỏ.",
-  "date": "2026-11-25T18:09:11.285Z",
-  "sig": "RLmOSIOsw9FxtOoiiDPtPUGwZDc8FYT15F5YN8jm_K9SC5BU2Bobd56LOTi2jkVEM5J5LgY4csLdiVA32tjlkw"
+  "version": "1.4.265",
+  "zip": "ad88-1.4.265.zip",
+  "sha256": "724d28ea62142c9a3e53d7d839c01c0d9a529d739be46eb6e39dafe8f47608ff",
+  "size": 3039832,
+  "notes": "Sửa tận gốc lỗi Tool đứng im rồi trả đơn: BO bỏ qua cú bấm Xác nhận → Tool theo dõi lệnh thanh toán thật, chưa gửi thì bấm lại (không bao giờ đẩy 2 lần), BO trả lời success là xong ngay; đơn đã mở khóa vì BO không nhận lệnh được bắt lại xử lý.",
+  "date": "2026-11-25T18:35:25.585Z",
+  "sig": "bat0oKsDjsmpiiFSmXzL5MaIf91f4tlkYMfzTnOjX8M2Eq0ofZ0ldo62u3722pPAcsZou7sXsHNwLH2mKIJGfw"
 }
