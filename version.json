@@ -1,9 +1,9 @@
 {
-  "version": "1.4.265",
-  "zip": "ad88-1.4.265.zip",
-  "sha256": "724d28ea62142c9a3e53d7d839c01c0d9a529d739be46eb6e39dafe8f47608ff",
-  "size": 3039832,
-  "notes": "Sửa tận gốc lỗi Tool đứng im rồi trả đơn: BO bỏ qua cú bấm Xác nhận → Tool theo dõi lệnh thanh toán thật, chưa gửi thì bấm lại (không bao giờ đẩy 2 lần), BO trả lời success là xong ngay; đơn đã mở khóa vì BO không nhận lệnh được bắt lại xử lý.",
-  "date": "2026-11-25T18:35:25.585Z",
-  "sig": "bat0oKsDjsmpiiFSmXzL5MaIf91f4tlkYMfzTnOjX8M2Eq0ofZ0ldo62u3722pPAcsZou7sXsHNwLH2mKIJGfw"
+  "version": "1.4.266",
+  "zip": "ad88-1.4.266.zip",
+  "sha256": "aac766d836e9203484e6892da9884dc1a770b9c8679abf43dc1de76f209a8e5c",
+  "size": 3040715,
+  "notes": "Ngân hàng đã tra mà không ra thông tin (không tìm thấy / không xác nhận được / tên khác) → trả đơn sai thông tin ngay, không còn mở khóa báo vàng do hết giờ xác nhận 5 lần.",
+  "date": "2026-11-25T18:55:52.460Z",
+  "sig": "b8q6iFVhNIykqJ-0v16mfJrYsAe0KYTY2LUE66qvPyEhFdAAwJfQZj70D2jRYmlxl_4DFFt68kg4HdeogJbzzQ"
 }
